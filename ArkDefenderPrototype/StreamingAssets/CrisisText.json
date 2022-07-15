@@ -1,0 +1,1829 @@
+{
+  "textBits": [
+    {
+      "CrisisEnumValue": 0,
+      "CrisisName": "none",
+      "Scenario": "This is a test Crisis",
+      "SpecialEvent": false,
+      "Responses": [
+        "This is a response test 1",
+        "This is a response test 2",
+        "This is a response test 3",
+        "This is a response test 4"
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [],
+      "FeedbackFailure": []
+    },
+    {
+      "CrisisEnumValue": 1,
+      "CrisisName": "alienstronghold",
+      "Scenario": "Something massive is coming up on the scanners.  Something big/",
+      "SpecialEvent": false,
+      "Responses": [
+        "RED ALERT!",
+        "It is probably nothing."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "An alien star fortress has entered firing range.  Heavily shielded and armed with rail guns."
+      ],
+      "FeedbackFailure": []
+    },
+    {
+      "CrisisEnumValue": 2,
+      "CrisisName": "ambushassault",
+      "Scenario": "Sir! Enemy craft have appeared in our surrounding space!   They came out of nowhere! It seems impossible they could get this close but they are nearly on us.  What shall we do?",
+      "SpecialEvent": false,
+      "Responses": [
+        "Full power to the engines! Try to outrun them before they lock us in!",
+        "We need to stand our ground.  Arm weapons and let the armory know we are going to be lightening their load."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [
+        "Full power to the engines! Try to out run them before they lock us in! (Our Engines are too damaged to pursue this course of action)",
+        ""
+      ],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "We were able to escape the ambush!",
+        "Battlestations ready, sir."
+      ],
+      "FeedbackFailure": [
+        "We were unable to escape.",
+        ""
+      ]
+    },
+    {
+      "CrisisEnumValue": 3,
+      "CrisisName": "ancientevil",
+      "Scenario": "The Order of Laouylik have completed their rites.  We have been blessed but now we must pay for that blessing. La lia eht kra gDo!",
+      "SpecialEvent": false,
+      "Responses": [
+        "What... is ... that?"
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "Insanity rains.  It thunders upon the homes of the populace.  Meaning has no meaning, infinity in the infinitesimal."
+      ],
+      "FeedbackFailure": []
+    },
+    {
+      "CrisisEnumValue": 4,
+      "CrisisName": "anomaly",
+      "Scenario": "Our scanners have picked up a strange anomaly on our current course.  It may warrant further examination.",
+      "SpecialEvent": false,
+      "Responses": [
+        "Knowledge is power, lay in a course for the anomaly.",
+        "Go around it, we cannot afford the time.",
+        "Vent people into it to see if it has an effect."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "The anomaly, while interesting, has done little for the ship.  Still we were able to harvest some resources en route.",
+        "We ignored the anomaly.",
+        "You feel a sense of appreciation for your actions.",
+        ""
+      ],
+      "FeedbackFailure": [
+        "The anomaly was caused by a strange signal",
+        "",
+        ""
+      ]
+    },
+    {
+      "CrisisEnumValue": 5,
+      "CrisisName": "artshow",
+      "Scenario": "A group of the populace that is artistically inclined has requested space to put on an art show.",
+      "SpecialEvent": false,
+      "Responses": [
+        "Finance the art show.",
+        "Finance the art show and buy a piece.",
+        "Provide no resources.",
+        "Become a patron of the arts."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [
+        "Finance the art show (we do not have the resources to finance this - %1%).",
+        "Finance the art show and buy a piece (we do not have the resources to finance this - %1%).",
+        "",
+        "Become a patron of the arts (we do not have the resources to finance this - %1%)."
+      ],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "The artists are elated and the show is a success and  improves the populace's mood.",
+        "The artists are elated and the show is a success and  improves the populace's mood.  The pieces that you bought look good in your ready room.",
+        "The artist are disappointed.",
+        "The artists appreciate your patronage and promise you new and exciting works."
+      ],
+      "FeedbackFailure": [
+        "",
+        "",
+        "The artists are disappointed and the populace is sad about the show's cancelation."
+      ]
+    },
+    {
+      "CrisisEnumValue": 6,
+      "CrisisName": "asteroidcore",
+      "Scenario": "A large asteroid, giving out strange readings from its core when we scan it, has appeared on our sensors.",
+      "SpecialEvent": false,
+      "Responses": [
+        "Core the asteroid.",
+        "Fly around it, it might be dangerous.",
+        "Shoot it from a safe distance."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "Coring the asteroid produced a deposit of a rare mineral that can be used to boost our power output for a short time",
+        "It may have been dangerous.",
+        "The asteroid detonates fabulously.  We were able to harvest some raw materials from the debris."
+      ],
+      "FeedbackFailure": [
+        "The coring process resulted in an explosion that damaged the ship and cost many lives.",
+        "",
+        ""
+      ]
+    },
+    {
+      "CrisisEnumValue": 7,
+      "CrisisName": "boardingparty",
+      "Scenario": "Sir! We have been boarded!  The enemy has begun to move through the ship and are approaching the residential areas!",
+      "SpecialEvent": false,
+      "Responses": [
+        "Send in ADF troops, activate the defense drones, and prepare to drive them out!",
+        "The universe is harsh, let the populace defend themselves.",
+        "Send what we can spare to help the populace defend themselves.",
+        "Vent them."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [
+        "We do not have the resources to send a full complement.",
+        "The universe is harsh, let the populace defend themselves.  (The civilian government will not allow this course of action).",
+        "",
+        ""
+      ],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "Troops have been sent to repel the attack.",
+        "It will take several weeks for the populace to repel them.  This has not won you any friends, but we have preserved resources for a more dire need.",
+        "The fighting is brutal.  It will take several weeks for us to hunt down the last of them, but it could have been worse.",
+        "A lot of civilians went with them, but there are no more enemies aboard."
+      ],
+      "FeedbackFailure": []
+    },
+    {
+      "CrisisEnumValue": 8,
+      "CrisisName": "catastrophiceexplosion",
+      "Scenario": "A catastrophic explosion rocks the ship!  Major damage on several decks!",
+      "SpecialEvent": false,
+      "Responses": [
+        "Send repair crews. (It will cost %1% materials)",
+        "Evacuate effected sections.",
+        "Vent the flames into space!",
+        "Let it BURN!"
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "The repair crews are able to repair %1%% of the damage.  Still the cost in lives was high.",
+        "The populace was saved but large portions of the ship have been damaged.  The shield capacitors have been damaged beyond repair and large sections of living quarters are no longer able to support life.",
+        "The fire (and debris, and nearby populace, and nearby supplies) are sucked into space preventing further damage.",
+        "Why? No, seriously, why? Sick curiosity?  Your shield systems and living quarters have been damaged beyond repair.  Have fun playing your fiddle."
+      ],
+      "FeedbackFailure": []
+    },
+    {
+      "CrisisEnumValue": 9,
+      "CrisisName": "celebration",
+      "Scenario": "The populace and crew are enjoying a well-deserved celebration.  This should do a lot to negate negativity in the crew.",
+      "SpecialEvent": false,
+      "Responses": [
+        "Carry on.",
+        "Stop this nonsense."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "A lot of pent up negativity is let go.  For a while it looks like events going forward are going to be good.",
+        "You have put an end to the festivities.  There is work that needs to be done, and now we have some more time to do it."
+      ],
+      "FeedbackFailure": []
+    },
+    {
+      "CrisisEnumValue": 10,
+      "CrisisName": "civilwar",
+      "Scenario": "Recent civil unrest has broken out into gang warfare within the populace.  They have split into two sides.  Both have sent envoys to request aid from the military complement on the ship.",
+      "SpecialEvent": false,
+      "Responses": [
+        "Supply the Faction for Democratic Freedoms.",
+        "Supply the Democratic Freedoms for the People Faction.",
+        "Stop this before it gets worse.  Send in the troops.",
+        "Stop this before it gets worse.  Vent one of the side's bases and confiscate any resources they have stockpiled."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "Their policies have diverted resources from our sanitation initiatives to our hydroponic research.",
+        "They have implemented health fitness programs.  The populace is participating and is healthier, but not thrilled about it.",
+        "It has been a drain on resources, but decisive action has earned you support and the removal of looming specter of war has made everybody more relaxed.",
+        "We have gained several weapon stockpiles, but lost the support of those sympathetic to the recently vented."
+      ],
+      "FeedbackFailure": []
+    },
+    {
+      "CrisisEnumValue": 11,
+      "CrisisName": "colonyattacked",
+      "Scenario": "We have received word that one of the colonies we established is under attack!",
+      "SpecialEvent": false,
+      "Responses": [
+        "Change course, we need to lend aid as quickly as possible.",
+        "We are too far away to offer assistance.  Continue forward and keep me apprised should they pull through.",
+        "Send a remote defense force.  Hopefully, it will get there in time."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [
+        "",
+        "",
+        "We do not have the resources to send remote support."
+      ],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "Ships in range! Weapons armed.  If they think Humanity will give up without a fight they can-",
+        "The colony was able to fight off the attackers.",
+        "The defense force was able to arrive and drive off the attackers."
+      ],
+      "FeedbackFailure": [
+        "",
+        "The colony was destroyed.",
+        ""
+      ]
+    },
+    {
+      "CrisisEnumValue": 12,
+      "CrisisName": "crackdownon",
+      "Scenario": "The populace may be getting restless, what should we do?",
+      "SpecialEvent": false,
+      "Responses": [
+        "Let them be innocent until proven guilty.",
+        "We need to stop any possible threats before they arise.  Crackdown on the populace.",
+        "A show of power may be necessary.  Vent the slums."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "A decision in support of civil liberties.",
+        "The populace does not know what is for their own good.  Our order will show them.",
+        "The populace will think twice before threatening to upturn the ship again."
+      ],
+      "FeedbackFailure": [
+        "",
+        "The more we try to provide order, the more the populace resists.",
+        "The populace is revolting against our leadership!"
+      ]
+    },
+    {
+      "CrisisEnumValue": 13,
+      "CrisisName": "criminaltrial",
+      "Scenario": "A criminal has been tried for a heinous crime.  The populace is divided on the proper punishment.  As captain you have been asked to decide punishment.",
+      "SpecialEvent": false,
+      "Responses": [
+        "DEATH! By venting.",
+        "Imprisonment.",
+        "Public shaming.",
+        "Pardon."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "The execution goes off without a hitch.  The populace is divided on the decision.",
+        "The cost of imprisonment has been added to our budget.",
+        "Stones and rotten fruit are thrown at the criminal as they are walked through the streets of the residential area.  Brutalized with broken bones and shunned afterwards the criminal spends several weeks recovering before being released.",
+        "The populace is not happy with your choice.  Your approval rating has dropped, but your direct control of the ship has increased.  Drones patrol the ship to ensure your commands are followed."
+      ],
+      "FeedbackFailure": [
+        "",
+        "",
+        "Stones and rotten fruit are thrown at the criminal as they are walked through the streets of the residential area.  Brutalized with broken bones and shunned afterwards the criminal ends up dying from injuries sustained.",
+        ""
+      ]
+    },
+    {
+      "CrisisEnumValue": 14,
+      "CrisisName": "croprot",
+      "Scenario": "A rot is spreading throughout our hydroponic bays damaging our food generation.",
+      "SpecialEvent": false,
+      "Responses": [
+        "Try to contain it.",
+        "Spend resources trying to find a cure (this will get harder as the cause mutates, but may prevent greater losses if successful)."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "We have quarantined the infected plants.  They are lost but it should not spread beyond that area.  Our food production will be lowered while we recoup the losses.",
+        "Our scientists have been able to find a cure for the rot."
+      ],
+      "FeedbackFailure": [
+        "We failed to quarantine the infected plants and the rot has spread to other parts of our crops.",
+        "The cure failed and the rot has spread even further, heavily damaging our food production."
+      ]
+    },
+    {
+      "CrisisEnumValue": 15,
+      "CrisisName": "cult",
+      "Scenario": "We have reports of a clandestine organization recruiting members of the populace and conducting unsavory practices.  They call themselves The Order of Laouylik.",
+      "SpecialEvent": false,
+      "Responses": [
+        "This sounds dangerous.  Quarantine them away from the rest of the populace.",
+        "This sounds intriguing.  Where are they meeting?  I wish to join them.",
+        "Vent them.",
+        "This sounds dangerous, squash it.",
+        "This sounds intriguing.  Let them continue.  They have a right to be on this ship just like the rest of Humanity."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "You lock them in a hanger.  The populace is somewhat restive about your choice.",
+        "The Order thanks you for the donation and look forward to your continued patronage.",
+        "They bounce off the hull of the Ark nicely.",
+        "We have arrested the members of the order and a few of their louder leaders had 'accidents'.  The populace is restive as a result of your actions, but The Order seemed dangerous.  Hopefully it was.",
+        "The Order of Laouylik has set up operations in a spare hanger."
+      ],
+      "FeedbackFailure": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "CrisisEnumValue": 16,
+      "CrisisName": "developautomation",
+      "Scenario": "Our scientists have found a way to further automate our manufacturing pipeline.",
+      "SpecialEvent": false,
+      "Responses": [
+        "Implement it. (Costs more raw materials, but reduced work hours per item).",
+        "Leave as is."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "The changes have been implemented.",
+        ""
+      ],
+      "FeedbackFailure": []
+    },
+    {
+      "CrisisEnumValue": 17,
+      "CrisisName": "drugtrade",
+      "Scenario": "A new substance has been circulating around the populace.",
+      "SpecialEvent": false,
+      "Responses": [
+        "Get me some of that! (A highly irresponsible course of action)",
+        "Set up a rehab station to help.",
+        "People make their own choices."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "That was dangerous.  The populace will not be fearing you any time soon and you look like a joke.",
+        "This will help those in need of it",
+        "Things are getting worse."
+      ],
+      "FeedbackFailure": [
+        "You overdosed"
+      ]
+    },
+    {
+      "CrisisEnumValue": 18,
+      "CrisisName": "eatvermin",
+      "Scenario": "We need food and those stellar vermin look full of tasty tasty MEAT!",
+      "SpecialEvent": false,
+      "Responses": [
+        "Eat them.",
+        "Vent the suckers!",
+        "No, people will be sad."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "The vermin are gathered up and processed to feed the populace.  The results have been stored in an empty hanger until we need it.",
+        "Their furry little bodies bounce nicely against the windows of the ship.",
+        "The populace breathe a sigh of relief."
+      ],
+      "FeedbackFailure": []
+    },
+    {
+      "CrisisEnumValue": 19,
+      "CrisisName": "electciviliangovernment",
+      "Scenario": "The populace would like to elect leaders to represent themselves and help govern the ship.",
+      "SpecialEvent": false,
+      "Responses": [
+        "Rig the elections.  We cannot let the populace make decisions.  It will only end poorly.",
+        "Sounds good.",
+        "Stop this, the descent and bureaucracy of a civilian government will only cause us trouble in the future."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [],
+      "SpecialResponse": [
+        "We were caught rigging the election!  They went ahead and elected a government anyway."
+      ],
+      "FeedbackSuccess": [
+        "We succeeded in rigging the election!",
+        "A new government was elected.",
+        "The populace is disappointed in your refusal to allow the election.  You inch closer to a establishing a police state."
+      ],
+      "FeedbackFailure": [
+        "We were caught rigging the election!  They went ahead and elected a government anyway."
+      ]
+    },
+    {
+      "CrisisEnumValue": 20,
+      "CrisisName": "electofficals",
+      "Scenario": "The populace is holding elections.",
+      "SpecialEvent": false,
+      "Responses": [
+        "Excellent.",
+        "Rig them.",
+        "Stop them."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [
+        "Very good.",
+        "Excellent.",
+        "We did what we must.",
+        "That could have gone better."
+      ],
+      "NegAltResponses": [],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "The elections were held.",
+        "Success!!",
+        "The elections have been postponed.  The populace is displeased."
+      ],
+      "FeedbackFailure": [
+        "",
+        "We were caught rigging the elections.  The populace is angry.  We move towards a police state.",
+        "The elections have been postponed again.  The populace is ever more displeased."
+      ]
+    },
+    {
+      "CrisisEnumValue": 21,
+      "CrisisName": "encounterwith2ndark",
+      "Scenario": "Sensors have detected another Ark at the limits of our scanners, fleeing the epicenter just as we are.",
+      "SpecialEvent": false,
+      "Responses": [
+        "Send a hail.",
+        "All hands to weapon stations, all boarding drones ready for launch, we need those resources!",
+        "Caution is the better part of valor."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [],
+      "SpecialResponse": [
+        "The hulk was devoid of life signs.  We sent an away team in to strip the tomb of any useful resources before leaving and they were attacked by... something!  We withdrew and sent a drone in to detonate the core.",
+        "The hulk was devoid of life signs.  We sent an away team in to strip the tomb of any useful resources before leaving.  We found a vast number of resources, but were unable to determine the cause of the death of the Ark's populace.",
+        "They responded to our hail!"
+      ],
+      "FeedbackSuccess": [],
+      "FeedbackFailure": []
+    },
+    {
+      "CrisisEnumValue": 22,
+      "CrisisName": "enginesfail",
+      "Scenario": "Our engine systems have suffered a massive failure!",
+      "SpecialEvent": false,
+      "Responses": [
+        "Divert resources to repair it.",
+        "Repair it as soon as you can."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [
+        "We do not have the resources to repair it",
+        ""
+      ],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "We were able to repair the system and avert a critical failure.",
+        "The system has broken down and will take several months to fully repair."
+      ],
+      "FeedbackFailure": []
+    },
+    {
+      "CrisisEnumValue": 23,
+      "CrisisName": "experimentalcrop",
+      "Scenario": "Our scientists have found a way to enhance our crops with a new experimental process to increase the yield of our crops.",
+      "SpecialEvent": false,
+      "Responses": [
+        "Put the system in place.",
+        "Hold off, we do not know the full effects."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "The retrovirus has been released and the crop modifications are underway.",
+        ""
+      ],
+      "FeedbackFailure": []
+    },
+    {
+      "CrisisEnumValue": 24,
+      "CrisisName": "experimentalcropillness",
+      "Scenario": "A mysterious sickness has spread throughout the populace causing a general frailty and even a few deaths as a result.",
+      "SpecialEvent": false,
+      "Responses": [
+        "Devote resources to researching the cause.",
+        "It will probably run its course on its own."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "Our scientists have dedicated time and resources to uncovering the cause.   They think they should have an answer in a few months.",
+        "We have need of the resources.  This is no worse than an ancient flu.   You are right it should pass."
+      ],
+      "FeedbackFailure": []
+    },
+    {
+      "CrisisEnumValue": 25,
+      "CrisisName": "experimentalcropillnesslink",
+      "Scenario": "After extensive research our scientists have discovered that the cause of the mysterious illness is a protein in the modified crop.  The protein is essential to the crop modification but negatively effects the constitution of various members of our populace.",
+      "SpecialEvent": false,
+      "Responses": [
+        "Continue use of the modified crop, we need the food.",
+        "Cease use of the modified crop, the populace's health is our chief concern."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "The populace approves of this choice.",
+        "The populace approves of this choice."
+      ],
+      "FeedbackFailure": [
+        "The populace disapproves of this choice.",
+        "The populace disapproves of this choice."
+      ]
+    },
+    {
+      "CrisisEnumValue": 26,
+      "CrisisName": "failedtonegotiate",
+      "Scenario": "The negotiations failed.",
+      "SpecialEvent": false,
+      "Responses": [
+        "Okay."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        ""
+      ],
+      "FeedbackFailure": []
+    },
+    {
+      "CrisisEnumValue": 27,
+      "CrisisName": "foundcomm",
+      "Scenario": "We have found a hostile communication array for the surrounding sectors.  We can attempt to hack it and gain an advantage while in this sector, but if we fail it will alert the enemy to our position. (Any advanced tech we have will help with the hacking process)",
+      "SpecialEvent": false,
+      "Responses": [
+        "Attempt to hack.",
+        "Leave it be."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "We were able to hack the system.  The array's range covers the next %1% sectors.",
+        ""
+      ],
+      "FeedbackFailure": [
+        "Our hack attempt failed and set off an alarm.  Enemy craft are closing on our position."
+      ]
+    },
+    {
+      "CrisisEnumValue": 28,
+      "CrisisName": "foundderelictshipwithdrones",
+      "Scenario": "The derelict hulk of an ancient ship has appeared on our scanners",
+      "SpecialEvent": false,
+      "Responses": [
+        "Scrap it.",
+        "Board and search it."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "The teams were able to gain a substantial amount of raw materials from the vessel.",
+        "The away team found racks of unused drones we can repurpose before returning to the Ark and scrapping the vessel."
+      ],
+      "FeedbackFailure": [
+        "",
+        "Nothing of value was found."
+      ]
+    },
+    {
+      "CrisisEnumValue": 29,
+      "CrisisName": "flightacademy",
+      "Scenario": "Some officers have approached you asking to set up a flight academy.  (This will give defense craft a health boost and cost reduction, but increase the work hours cost) ",
+      "SpecialEvent": false,
+      "Responses": [
+        "Establish an academy.",
+        "Not right now."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [
+        "Establish an academy.  (Not enough materials)"
+      ],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "A series of unused hangers are repurposed for training and lecture halls.",
+        ""
+      ],
+      "FeedbackFailure": []
+    },
+    {
+      "CrisisEnumValue": 30,
+      "CrisisName": "flooding",
+      "Scenario": "Broken pipes in our plumbing system have resulted in flooding.  The water needs to be diverted somewhere while repairs are made.  Where shall we divert it?",
+      "SpecialEvent": false,
+      "Responses": [
+        "Direct it to the hydroponic bays.  Some of our food will spoil, but at least our systems and infrastructure should be okay.",
+        "Redirect into the ship. It will wreak havoc on our systems, but at least the populace should remain unharmed.",
+        "We cannot afford to lose reserves of food or have our systems damaged.  Redirect to the residential areas.",
+        "Someone else will fix it eventually.  Leave it."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [
+        "",
+        "",
+        "We cannot afford to lose reserves of food or have our systems damaged.  Redirect to the residential areas. (The civilian government will not allow this course of action)",
+        "Someone else will fix it eventually.  Leave it. (The civilian government will not support this course of action)."
+      ],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "%1% tons of food were lost to the flood.",
+        "",
+        "",
+        ""
+      ],
+      "FeedbackFailure": []
+    },
+    {
+      "CrisisEnumValue": 31,
+      "CrisisName": "foodshortage",
+      "Scenario": "We have run out of food reserves! The population is starving! What shall we do?",
+      "SpecialEvent": false,
+      "Responses": [
+        "Find a solution to supplement the algae proteins.  I do not care how, just do it.",
+        "Find a solution to supplement the algae proteins.  I do not care how, just do it.  Any means, understood?",
+        "Divert power to the hydroponic bays, we need to end this famine.",
+        "Tell the populace to tighten their belts.  We cannot feed them right now.",
+        "We can do nothing."
+      ],
+      "AltResponses": [
+        "Find a solution to supplement the algae proteins.  I do not care how, just do it.  (The civilian government acknowledges survival is important)",
+        "",
+        "",
+        ""
+      ],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [
+        "Find a solution to supplement the algae proteins.  (The civilian government acknowledges survival is important, but deems things are not yet so dire)",
+        "Find a solution to supplement the algae proteins.  I do not care how, just do it.  Any means, understood? (The civilian government will not allow such drastic measures)",
+        "",
+        "Tell the populace to tighten their belts.  We cannot feed them right now. (The civilian government will not allow the population to starve)"
+      ],
+      "SpecialResponse": [
+        "The populace is suspicious but the government helps to cover it up."
+      ],
+      "FeedbackSuccess": [
+        "We have found a source to simulate algae proteins.",
+        "We have found a source to simulate algae proteins.  Also a number of disappearances have been occurring on the ship.",
+        "The extra power has boosted food production.",
+        "Starvation runs throughout the Ark.  The populace is not happy with your choices.",
+        "Mass starvation runs rampant.  Thousands starve.  The populace is not happy your choice."
+      ],
+      "FeedbackFailure": []
+    },
+    {
+      "CrisisEnumValue": 32,
+      "CrisisName": "foundweaponcache",
+      "Scenario": "We found a cache of weapons we can adapt to work with our defense systems.",
+      "SpecialEvent": false,
+      "Responses": [
+        "Okay."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        ""
+      ],
+      "FeedbackFailure": []
+    },
+    {
+      "CrisisEnumValue": 33,
+      "CrisisName": "genericsystemfail",
+      "Scenario": "Our power systems have been damaged.",
+      "SpecialEvent": false,
+      "Responses": [
+        "Repair it as quickly as you can."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        ""
+      ],
+      "FeedbackFailure": []
+    },
+    {
+      "CrisisEnumValue": 34,
+      "CrisisName": "habitableplanet",
+      "Scenario": "We have detected a planet that may be suitable to establish a colony on.  It is off our current course.",
+      "SpecialEvent": false,
+      "Responses": [
+        "Begin disembark procedures and set up a lottery to pick those who will disembark.",
+        "Inform the populace we cannot deviate from our current course.",
+        "We cannot deviate from our current course.  Let's keep this between us.  No need to get the populace's hopes up."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "We are setting down %1%K of our populace on the planet.  This marks colony number %2%.",
+        "The populace is not happy and restive as a result.",
+        ""
+      ],
+      "FeedbackFailure": [
+        "",
+        "",
+        "The populace discovered your deception.  They are not happy with this choice.  Their approval of your captaincy has gone down."
+      ]
+    },
+    {
+      "CrisisEnumValue": 35,
+      "CrisisName": "hailedanotherark",
+      "Scenario": "Why are we hailing them?",
+      "SpecialEvent": false,
+      "Responses": [
+        "Do they have any room for our population?",
+        "Would any of their populace like to migrate?",
+        "Trade resources.",
+        "Share media each population has created."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [
+        "Do they have any room for our population? (Our population is already too small)",
+        "Would any of their populace like to migrate? (Our population is already to large)",
+        "Trade resources.",
+        "Share media each population has created."
+      ],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "They offload several thousand of their population who wish to changes ships.",
+        "They are under capacity and welcome the new populace.",
+        "When the trading is completed the other Ark will move on.",
+        "You swap databases giving both populations a wealth of new distractions."
+      ],
+      "FeedbackFailure": [
+        "They are already at capacity.",
+        "They cannot spare the populace."
+      ]
+    },
+    {
+      "CrisisEnumValue": 36,
+      "CrisisName": "hydroponicsfail",
+      "Scenario": "Our hydroponic bays have suffered a massive malfunction!  Our food production will suffer greatly!",
+      "SpecialEvent": false,
+      "Responses": [
+        "Divert resources to repair it.",
+        "Repair it as soon as you can."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [
+        "We do not have the resources to repair it.",
+        ""
+      ],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "We were able to repair the system and avert a critical failure.",
+        "The system has broken down and will take several months to fully repair."
+      ],
+      "FeedbackFailure": []
+    },
+    {
+      "CrisisEnumValue": 37,
+      "CrisisName": "ithmetal",
+      "Scenario": "We have detected an I'th metal mine.",
+      "SpecialEvent": false,
+      "Responses": [
+        "Attempt to mine.  (The metal necessitates a non drone crew)",
+        "Leave it be, mining it is too risky."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "We were able to secure the I'th metal.",
+        ""
+      ],
+      "FeedbackFailure": [
+        "A collapse cost the lives of the mining crew.  However, we were still able to procure the mined metal.",
+        ""
+      ]
+    },
+    {
+      "CrisisEnumValue": 38,
+      "CrisisName": "lifesignsgone",
+      "Scenario": "The life signs in a section of the ship have suddenly gone dark.",
+      "SpecialEvent": false,
+      "Responses": [
+        "Send in a search party to investigate.",
+        "Send in drones to investigate.",
+        "Vent the area to be safe.",
+        "Ignore it."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [
+        "",
+        "Send in drones to investigate.  (Not enough resources)",
+        "",
+        ""
+      ],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "The search party finds nothing, but several fail to report in.",
+        "Gone.  Nothing can be found.  The populace that was once there is now just gone.",
+        "The area is vented into the cold of space.  Some supplies are lost, but better safe than sorry.",
+        "The next day another section goes dark.  Ah well."
+      ],
+      "FeedbackFailure": [
+        "As the team approaches, the life signs flicker back on.  The Order of Laouylik explain that it was just a slight error.  They were trying to fix a power junction and crossed a wire.  They are very apologetic but assure you it is nothing to be concerned about.",
+        "As the team approaches, the life signs flicker back on.  The Order of Laouylik explain that it was just a slight error.  They were trying to fix a power junction and crossed a wire.  They are very apologetic but assure you it is nothing to be concerned about.",
+        "",
+        ""
+      ]
+    },
+    {
+      "CrisisEnumValue": 39,
+      "CrisisName": "mineplanet",
+      "Scenario": "We have detected a mineral rich planet in range.  It may provide excellent amounts of resources, but mining may result in risks.",
+      "SpecialEvent": false,
+      "Responses": [
+        "Divert course and send down a party to extract resources.",
+        "We may not be stopping but put it on display.  Perhaps the populace will find it interesting.",
+        "Have the factories manufacture some drones.  It is a gamble and we may not recoup our cost, but it will be safer."
+      ],
+      "AltResponses": [
+        "",
+        "We may not be stopping but put it on the display.  Perhaps the school will be interested in conducting a study.",
+        ""
+      ],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [
+        "",
+        "",
+        "Have the factories manufacture some drones.  It is a gamble and we may not recoup our cost, but it will be safer. (We do not have the resources to build drones) "
+      ],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "The away team has retrieved raw minerals from the planet.",
+        "The planet provided a pleasant view for the populace while it passed beneath the Ark.",
+        "The net material change from the drone excursion was "
+      ],
+      "FeedbackFailure": []
+    },
+    {
+      "CrisisEnumValue": 40,
+      "CrisisName": "mutiny",
+      "Scenario": "The populace is revolting, also they are mutinying.",
+      "SpecialEvent": false,
+      "Responses": [
+        "Put down this mutiny.  Send in ADF troops and defense troops.",
+        "Surrender, we do not want any bloodshed if at all possible.",
+        "Vent them."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [],
+      "SpecialResponse": [
+        "We have successfully put down the revolt.",
+        "We failed to put down the revolt."
+      ],
+      "FeedbackSuccess": [
+        "We have successfully put down the revolt.",
+        "A new captain is to be elected.",
+        "The insurgents (around 50,000) have been vented into space.  That will learn them. If you know, they were not already in space."
+      ],
+      "FeedbackFailure": [
+        "We failed to put down the revolt."
+      ]
+    },
+    {
+      "CrisisEnumValue": 41,
+      "CrisisName": "mysterioussignal",
+      "Scenario": "We have picked up a mysterious signal, it does not seem to match any of the frequencies of the hostiles in the area.  What should we do?",
+      "SpecialEvent": false,
+      "Responses": [
+        "Try to track it to its source, there may be something of value there.",
+        "Ignore it.",
+        "Try to respond."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "",
+        "",
+        ""
+      ],
+      "FeedbackFailure": []
+    },
+    {
+      "CrisisEnumValue": 42,
+      "CrisisName": "mysterioussignalambush",
+      "Scenario": "The signal was a trap set by hostiles!",
+      "SpecialEvent": false,
+      "Responses": [
+        "..."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        ""
+      ],
+      "FeedbackFailure": []
+    },
+    {
+      "CrisisEnumValue": 43,
+      "CrisisName": "naturaldisaster",
+      "Scenario": "An ion storm is has appeared on our scanners!",
+      "SpecialEvent": false,
+      "Responses": [
+        "It will take a while but plot a course around it.",
+        "Batten down the hatches and prepare for a rough ride.  Full speed ahead.",
+        "Stop and see what we can gain from this anomaly."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [
+        "The Order of Laouylik says they refuse to go around the anomaly."
+      ],
+      "SpecialResponse": [
+        "A black hole is on a collision course with the ship!"
+      ],
+      "FeedbackSuccess": [
+        "The course diversion is uneventful, but adds several weeks to our trip in this sector.",
+        "A faster trip and one without any surprises!",
+        "We were able to gather some useful resources, but it took some time.  The populace has mixed feelings about it."
+      ],
+      "FeedbackFailure": [
+        "The engines are damaged en route, adding several weeks to our time in this sector.",
+        "The Ark's systems have taken damage!",
+        "While gathering resources our systems were damaged!"
+      ]
+    },
+    {
+      "CrisisEnumValue": 44,
+      "CrisisName": "newcaptain",
+      "Scenario": "A new captain has been selected to run the ship.  What policies do you wish to change?",
+      "SpecialEvent": false,
+      "Responses": [
+        "Nothing.",
+        "Enact changes."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [],
+      "SpecialResponse": [
+        "Remove slave market.",
+        "Remove The Order of Laouylik.",
+        "Remove Stellar Vermin.",
+        "Remove populace based food alternatives.",
+        "Remove school.",
+        "Remove authoritarian regime.",
+        "Remove civilian government.",
+        "Remove automation."
+      ],
+      "FeedbackSuccess": [
+        "",
+        "The changes have been enacted."
+      ],
+      "FeedbackFailure": []
+    },
+    {
+      "CrisisEnumValue": 45,
+      "CrisisName": "newgovernment",
+      "Scenario": "A new order has been established.",
+      "SpecialEvent": false,
+      "Responses": [],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [],
+      "SpecialResponse": [
+        "Order will reign; the people know not what they want.",
+        "Laouylik will show us the way.",
+        "The people shall lead!",
+        "Let the winners lead on!",
+        "Down with the ship if need be."
+      ],
+      "FeedbackSuccess": [],
+      "FeedbackFailure": []
+    },
+    {
+      "CrisisEnumValue": 46,
+      "CrisisName": "overpopulation",
+      "Scenario": "The ship cannot contain its current population, we lack the resources to maintain this.",
+      "SpecialEvent": false,
+      "Responses": [
+        "There is nothing to be done, we must make do as we can.",
+        "We need to slow our population increase.  Make the necessary declarations.",
+        "Find a solution to supplement the algae proteins and get us enough food.  I do not care how, just do it.",
+        "Initiate Renewal protocols."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [
+        "There is nothing to be done, we must make do as we can.  (The Order of Laouylik will not allow this course of action)",
+        "We need to slow our population increase.  Make the necessary declarations.  (The Order of Laouylik will not allow this course of action)",
+        "Find a solution to supplement the algae proteins and get us enough food.  I do not care how, just do it.  (The Order of Laouylik will not allow this course of action)",
+        ""
+      ],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "The populace is overcrowded and at risk to disease.",
+        "The populace is not happy with your choice.  But this should help with the overpopulation.",
+        "A substitute protein has been found.  We have extra space where the crematorium used to be.",
+        "Renewal protocols in place.  The populace is uncomfortable with this new paradigm."
+      ],
+      "FeedbackFailure": [
+        "",
+        "",
+        "",
+        "Renewal protocols in place."
+      ]
+    },
+    {
+      "CrisisEnumValue": 47,
+      "CrisisName": "plague",
+      "Scenario": "Disease sweeps through the ships.  It started somewhere in the aft regions of the ship and is spreading quickly.  The populace is calling it \"Engine's Burn\" due to the reddish burn like rash that forms leading up to death. Some action needs to be taken.",
+      "SpecialEvent": false,
+      "Responses": [
+        "Quarantine the sick! The disease cannot be allowed to spread!",
+        "The disease will run its course given time.",
+        "Manufacture medicine and food for the ill!"
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "The quarantine has reduced the spread of the disease, but put a strain on the populace.",
+        "The disease spread through a vast number of the populace.  However, eventually the epidemic did end.",
+        "The medicine has helped to contain the disease."
+      ],
+      "FeedbackFailure": []
+    },
+    {
+      "CrisisEnumValue": 48,
+      "CrisisName": "plaugemineplanet",
+      "Scenario": "There were microbes on that planet we mined that we did not account for.  This 'Miner's Worm' as the populace is calling it is spreading throughout the ship.  What should we do?",
+      "SpecialEvent": false,
+      "Responses": [
+        "Divert resources to research a cure for this disease! Now, before more die!",
+        "We cannot allow this to spread to the rest of the ship! Vent them!",
+        "If they cannot survive on their own then they are of no use to Humanity.  Leave them.",
+        "Make a show.  We do not have the resources to work on a cure, but perhaps acting like we do will give them comfort."
+      ],
+      "AltResponses": [
+        "",
+        "The civilian government has decided the situation is dire enough that venting the diseased into space may be the only course of action.",
+        "",
+        ""
+      ],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [
+        "Divert resources to research a cure for this disease! Now before more die! (We do not have the resources to pursue this course of action)",
+        "We cannot allow this to spread to the rest of the ship! Vent them! (The situation is not dire enough for the civilian government to condone such an action)",
+        "If they cannot survive on their own then they are of no use to Humanity.  Leave them. (The civilian government will not allow this course of action)",
+        ""
+      ],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "The disease has been cured.",
+        "It was the only way.",
+        "",
+        ""
+      ],
+      "FeedbackFailure": []
+    },
+    {
+      "CrisisEnumValue": 49,
+      "CrisisName": "plumbingleak",
+      "Scenario": "The plumbing of the ship has sprung a leak",
+      "SpecialEvent": false,
+      "Responses": [
+        "Send materials and repair drones to fix it.",
+        "We cannot spare the resources to fix it.  Leave it."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [
+        "We do not have the materials to repair this.",
+        ""
+      ],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "The leak has been fixed.",
+        "The pipe will be fine."
+      ],
+      "FeedbackFailure": []
+    },
+    {
+      "CrisisEnumValue": 50,
+      "CrisisName": "poll",
+      "Scenario": "We have an opportunity to conduct a poll of the populace’s opinion of the current administration of the ship.  Do you want to pursue it?",
+      "SpecialEvent": false,
+      "Responses": [
+        "You may have all the resources you need to conduct a high accuracy poll.",
+        "See what you can do with this.",
+        "Eh, sure."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [
+        "We lack the resources to conduct a thorough poll.",
+        "We lack the resources to conduct a moderate poll.",
+        ""
+      ],
+      "SpecialResponse": [
+        "Your approval rating is ",
+        "We think your approval rating is between ",
+        "At a guess, the populaces’ approval of you is above 50%.",
+        "At a guess, the populaces’ approval of you is below 50%."
+      ],
+      "FeedbackSuccess": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "FeedbackFailure": []
+    },
+    {
+      "CrisisEnumValue": 51,
+      "CrisisName": "precursor",
+      "Scenario": "A vast ship the size of a continent shimmers into existence before your ship.  It stretches into the void, shifting as if it is not all there.  The interstellar comm crackles. \n ‘LeCaRO ROEL RELO RELO ReSiC ReLOE RaReS RiLRO RaSaR EP RUE RenRU RaSeSO RaRaS ReLRO EP RaRU RaRSe RELO RaSaR.… Greetings, young ones.  [Our communication database has been hacked]",
+      "SpecialEvent": false,
+      "Responses": [
+        "Greetings.  How may we be of assistance?",
+        "[prepare weapons]",
+        ". . .",
+        "What can you teach us?"
+      ],
+      "AltResponses": [],
+      "ResultStrings": [
+        "Amusing.  But it is you who seem in need of assistance.  We will grant it to you.",
+        "[The city ship releases several ships and fades away]",
+        "The ship fades away.",
+        "We can teach you much."
+      ],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "We have received a large number of gravity based explosives and an upgrade to our reactor system.",
+        "",
+        "...",
+        "The aliens have installed a communication system on our ship and send us teachings at seemingly random times."
+      ],
+      "FeedbackFailure": []
+    },
+    {
+      "CrisisEnumValue": 52,
+      "CrisisName": "protests",
+      "Scenario": "The populace object to several of your decisions and have begun protesting in the streets!",
+      "SpecialEvent": false,
+      "Responses": [
+        "Stop this nonsense.  Activate the defense drones.",
+        "They have the right to protest.",
+        "Sponsor a counter protest.",
+        "Sabotage their protest; we cannot have such a blatant breakdown of order."
+      ],
+      "AltResponses": [
+        "Stop this nonsense.  Activate the defense drones. The civilian government will not authorize use of force. Proceed anyway?",
+        ""
+      ],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [
+        "",
+        "They have the right to protest. (The Order of Laouylik objects to this course of action)",
+        ""
+      ],
+      "SpecialResponse": [
+        "The civilian government is in shambles and a new order rises.   Several weapons that were held by participants have been confiscated."
+      ],
+      "FeedbackSuccess": [
+        "Many do not survive the resulting breakup of the protest.  Several weapons that were held by participants have been confiscated.",
+        "The populace is restive, but they are pleased with your willingness to listen.",
+        "The counter protest is a success!",
+        "We were able to convince the populace that it was in their best interests to end the protest."
+      ],
+      "FeedbackFailure": [
+        "",
+        "",
+        "The counter protest failed.  There is even more unrest and your approval has gone down.",
+        "The populace was angered and the unrest has intensified.  Your approval has gone down."
+      ]
+    },
+    {
+      "CrisisEnumValue": 53,
+      "CrisisName": "removeelectedgovcult",
+      "Scenario": "The time has come for the Order of Laouylik to lead the people.  You shall begin removing the civilian government.",
+      "SpecialEvent": false,
+      "Responses": [
+        "As the Order commands.",
+        "No, they are needed to represent the people."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [
+        "",
+        "No, they are needed to represent the people. (The Order of Laouylik will not allow this)."
+      ],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "The Order of Laouylik has taken control of the Ark's government.",
+        "The civilian government remains in power."
+      ],
+      "FeedbackFailure": []
+    },
+    {
+      "CrisisEnumValue": 54,
+      "CrisisName": "removeelectedgovpolicestate",
+      "Scenario": "The opportunity has arisen to remove the current government and return sole control to your hands.",
+      "SpecialEvent": false,
+      "Responses": [
+        "Yes, proceed we need order and control.  I will provide both.",
+        "No, I do not want the pressure.  Leave them in power.",
+        ""
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "You now control the ship entirely.",
+        "The civilian government remains in power."
+      ],
+      "FeedbackFailure": []
+    },
+    {
+      "CrisisEnumValue": 55,
+      "CrisisName": "revolt",
+      "Scenario": "The populace is rising up! They are getting ready to storm our position!  What shall we do?",
+      "SpecialEvent": false,
+      "Responses": [
+        "Send in armed forces and put down this rebellion.",
+        "Surrender.  I wanted none of this.",
+        "Tell them I wish to parley."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [
+        "They struck when we had no resources.  We cannot counter attack.",
+        "",
+        ""
+      ],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "The cost to the populace far outweighs the cost of materials.  The revolt is put down.",
+        "A new captain has been appointed.",
+        "You were able to successfully negotiate.  It cost some materials, but the loss of life was avoided."
+      ],
+      "FeedbackFailure": [
+        "",
+        "",
+        "You failed and were removed from your position, along with those loyal to you."
+      ]
+    },
+    {
+      "CrisisEnumValue": 56,
+      "CrisisName": "sacrifice",
+      "Scenario": "The Order of Laouylik requires the use of a portion of the ship’s population.  They are promising valuable returns.",
+      "SpecialEvent": false,
+      "Responses": [
+        "Of course they may do as they wish.",
+        "Within reason, this has borne fruit before.",
+        "Absolutely not.  They have gone too far we need to end this",
+        "Absolutely not."
+      ],
+      "AltResponses": [
+        "",
+        "Keep an eye on them, but it cannot hurt us to try.",
+        "The Order of Laouylik will not allow you to end this without consequences.",
+        ""
+      ],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "SpecialResponse": [
+        "Sir, The captain has been assassinated! We need you to take command!"
+      ],
+      "FeedbackSuccess": [
+        "The Order is able to deliver resources from seemingly nowhere.",
+        "The Order is able to deliver resources from seemingly nowhere.  Although they hope you will be more eager in the future.",
+        "The cult of Laouylik is no more.  The populace is restive with you sudden banning a civilian organization.",
+        "The Order of Laouylik is stirring up the population at your refusal."
+      ],
+      "FeedbackFailure": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "CrisisEnumValue": 57,
+      "CrisisName": "sanitationsystemfail",
+      "Scenario": "Our sanitation systems have failed! This will bring with it a great many health risks while it is repaired.",
+      "SpecialEvent": false,
+      "Responses": [
+        "Divert resources to repair it!",
+        "Repair it as soon as you can."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [
+        "We do not have the resources to repair it.",
+        ""
+      ],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "We were able to repair the system averting a critical failure.",
+        "The system has broken down and will take several months to fully repair."
+      ],
+      "FeedbackFailure": []
+    },
+    {
+      "CrisisEnumValue": 58,
+      "CrisisName": "school",
+      "Scenario": "The populace would like resources allocated to start a school for children and help stabilize society on the ship.",
+      "SpecialEvent": false,
+      "Responses": [
+        "Give them all the resources they need.  We need to keep humanity educated and informed.",
+        "Unfortunately, we lack the resources to do so.  They will have to manage as they have been with educating the young.",
+        "We can provide the space, but the populace will need to provide the resources to set up and maintain the school."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [
+        "Give them all the resources they need.  We need to keep humanity educated and informed.  (We lack the resources to do this)",
+        "Unfortunately, we lack the resources to do so.  They will have to manage as they have been with educating the young.",
+        "We can provide the space, but the populace will need to provide the resources to set up and maintain the school."
+      ],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "The initial cost will surely be offset by future benefits to the Ark.",
+        "Without the resources, the school is not created.",
+        "A school is established, but the limited resources force it to only accept those who can contribute."
+      ],
+      "FeedbackFailure": []
+    },
+    {
+      "CrisisEnumValue": 59,
+      "CrisisName": "schoolcultconflict",
+      "Scenario": "The Order of Laouylik has objected to how the school is educating the youth of the ship.  What shall we do?",
+      "SpecialEvent": false,
+      "Responses": [
+        "The Order raises some valid points.  Order the teachers to comply or find other employment on the ship.",
+        "The Order cannot be allowed to dictate what we teach our young.  Tell them so.",
+        "It is important to recognize their views; it may cost some resources but create a second school for them."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "Several teachers quit.  The Order appreciates your acceptance.",
+        "The cult is disappointed with your choice.",
+        "You build a second school.  Diverse educational environments are good, right?"
+      ],
+      "FeedbackFailure": []
+    },
+    {
+      "CrisisEnumValue": 60,
+      "CrisisName": "sendspies",
+      "Scenario": "Do you wish to begin infiltration of the populace to forewarn us of any future protests or revolts?",
+      "SpecialEvent": false,
+      "Responses": [
+        "Send in the spies, I need to know what is happening.",
+        "We do not need to spy on our own people.",
+        "Ask the populace what we need to know."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [],
+      "SpecialResponse": [
+        "At a guess the populace's approval of you is above 50%.",
+        "At a guess the populace's approval of you is below 50%."
+      ],
+      "FeedbackSuccess": [
+        "The spies have been sent.",
+        "",
+        ""
+      ],
+      "FeedbackFailure": []
+    },
+    {
+      "CrisisEnumValue": 61,
+      "CrisisName": "shieldsfail",
+      "Scenario": "Our ionization field has been heavily damaged! The effectiveness of our defenses will be greatly hindered until we can repair them.",
+      "SpecialEvent": false,
+      "Responses": [
+        "Divert resources to repair it.",
+        "Repair it as soon as you can."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [
+        "We do not have the resources to repair it.",
+        ""
+      ],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "We were able to repair the system averting a critical failure.",
+        "The system has broken down and will take several months to fully repair."
+      ],
+      "FeedbackFailure": []
+    },
+    {
+      "CrisisEnumValue": 62,
+      "CrisisName": "slavemarket",
+      "Scenario": "There have been reports of cases of indentured servitude and servant trading going on in the residential and market zones of the ship.  What do you want to do?",
+      "SpecialEvent": false,
+      "Responses": [
+        "Let them be, we cannot interfere too greatly with society.",
+        "We cannot devote any major resources to this, but issue an official ban on servant trafficking.",
+        "Stop this before it gets any worse.  Collaborate with law enforcement and stop this trafficking."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [
+        "The civilian government will not allow this to continue.  You must do something.",
+        "",
+        ""
+      ],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "The market flourishes, providing a boost to work hours for production through its product.",
+        "Not a popular choice.  It may have stopped the trade, we will have to wait and see.",
+        "It cost quite a few resources but it is squashed.  It may take a few months to finish it off though."
+      ],
+      "FeedbackFailure": []
+    },
+    {
+      "CrisisEnumValue": 63,
+      "CrisisName": "spacestation",
+      "Scenario": "We have come across a space station of some kind.  It seems to be far beyond the technology we have seen anywhere else, yet it seems to be epochs old.  It emits a weak signal.",
+      "SpecialEvent": false,
+      "Responses": [
+        "Try to dock with it, maybe we can find something useful.",
+        "Send out the constructor drones to strip it for parts.",
+        "Send in a team to see if we can scrounge any resources from it.",
+        "Scan it for anything we could use to defend ourselves."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [],
+      "SpecialResponse": [
+        "We found a supply of weapons we can adapt and a strange piece of tech our scientists want to analyze."
+      ],
+      "FeedbackSuccess": [
+        "We were able to find parts to upgrade our power systems!",
+        "We gathered a large pile of materials we can use.",
+        "We found a chamber of frozen foodstuffs, perfectly preserved.",
+        ""
+      ],
+      "FeedbackFailure": [
+        "",
+        "",
+        "",
+        "We found a large supply of weapons we can adapt to our systems."
+      ]
+    },
+    {
+      "CrisisEnumValue": 64,
+      "CrisisName": "spacestationevil",
+      "Scenario": "We have come across a space station of some kind.  It seems to be far beyond the technology we have seen anywhere else, yet it seems to be epochs old.  It emits a weak signal of some kind.",
+      "SpecialEvent": false,
+      "Responses": [
+        "Try to dock with it, maybe we can find something useful.",
+        "Send out the constructor drones to strip it for parts.",
+        "Send in a team to see if we can scrounge any resources from it.",
+        "Scan it for anything we could use to defend ourselves."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [],
+      "SpecialResponse": [
+        "It was booby-trapped!",
+        "We triggered the security system.",
+        "We picked up an ancient disease!",
+        "We found a weapon; unfortunately it is armed, automated, and targeted at us."
+      ],
+      "FeedbackSuccess": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "FeedbackFailure": []
+    },
+    {
+      "CrisisEnumValue": 65,
+      "CrisisName": "spiesreport",
+      "Scenario": "Your spies are ready for their next assignment.",
+      "SpecialEvent": false,
+      "Responses": [
+        "Find out what the populace is saying about our current administration.",
+        "What is the populace’s current health?",
+        "How content is the populace currently? ",
+        "We need to stop spying on our own people. ",
+        "Make sure the trouble makers do not make any more trouble, understood?"
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [],
+      "SpecialResponse": [
+        "The populaceis # percent healthy.  There is a disease risk that should be cleared up in % sectors.",
+        "Roughly # of the populace is content.",
+        "Investigate the leaders in the government and find their weak points.  Make sure they are a government in name only.",
+        "The Order of Laouylik has become increasingly dangerous, begin clearing them out.",
+        "Your approval rating is currently "
+      ],
+      "FeedbackSuccess": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "FeedbackFailure": []
+    },
+    {
+      "CrisisEnumValue": 66,
+      "CrisisName": "stellarvermin",
+      "Scenario": "We have managed to pick up some kind of vermin.  They are spreading through the ship and eating our food, but the populace has taken to them.",
+      "SpecialEvent": false,
+      "Responses": [
+        "Let them be, the populace needs all the comfort it can get on this ship.",
+        "We need to stop them from eating our food reserves.  Send out pest control and wipe them out.",
+        "Make sure the populace keep their pets from breeding and keep the wild population under control."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [
+        "We cannot let them run loose.  The civilian government insists something be done about them.",
+        "We do not have the resources to spend on wiping them out.",
+        ""
+      ],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "The people are happy, but our food reserves have taken a severe hit.",
+        "We have removed them and reprocessed them into food.",
+        "Our food reserves have taken a hit, but the populace is happy."
+      ],
+      "FeedbackFailure": []
+    },
+    {
+      "CrisisEnumValue": 67,
+      "CrisisName": "systemsfailure",
+      "Scenario": "We are experiencing a shipwide systems failure.  We can get most of them to remain stable, but we have to sacrifice a system.  What will it be?",
+      "SpecialEvent": false,
+      "Responses": [
+        "Engines.",
+        "Shields.",
+        "Weapons.",
+        "Power.",
+        "Hydroponics.",
+        "Sanitation."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "The engines have failed.",
+        "The shields have failed.",
+        "The weapons systems have overloaded.",
+        "The power control systems have been damaged.",
+        "The hydroponics systems have been damaged.",
+        "The sanitation system is broken."
+      ],
+      "FeedbackFailure": [
+        "",
+        ""
+      ]
+    },
+    {
+      "CrisisEnumValue": 68,
+      "CrisisName": "tradepost",
+      "Scenario": "We have stumbled across a rare find.  An automated trade post.  We are able to hack into it and set it to trade with us at your command.",
+      "SpecialEvent": false,
+      "Responses": [
+        "Commence with the hacking.",
+        "We have no need of it for now."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "",
+        ""
+      ],
+      "FeedbackFailure": []
+    },
+    {
+      "CrisisEnumValue": 69,
+      "CrisisName": "weaponsfail",
+      "Scenario": "Our weapons systems have been heavily damaged.  We are a sitting duck until they are fully repaired.",
+      "SpecialEvent": false,
+      "Responses": [
+        "Divert resources to repair it.",
+        "Repair it as soon as you can."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [
+        "We do not have the resources to repair it.",
+        "..."
+      ],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "We have averted a critical weapons failure.",
+        "Our weapons system overloaded and damaged several decks.  It will take several weeks to get them fully operational again."
+      ],
+      "FeedbackFailure": []
+    },
+    {
+      "CrisisEnumValue": 70,
+      "CrisisName": "workersgasp",
+      "Scenario": "A disease has spread through the populace.  This \"Worker's\" Gasp has put several people in hospitals, although no deaths... yet.",
+      "SpecialEvent": false,
+      "Responses": [
+        "Let the disease run its course.",
+        "Spend resources treating the sick."
+      ],
+      "AltResponses": [],
+      "ResultStrings": [],
+      "ResultAckknowledgements": [],
+      "NegAltResponses": [],
+      "SpecialResponse": [],
+      "FeedbackSuccess": [
+        "Our doctors think that the effects may linger for as long as a full year and effect efficiency across the ship.",
+        "Our doctors have been able to mitigate the symptoms drastically.  It will still effect our efficiency but should clear up much sooner."
+      ],
+      "FeedbackFailure": [
+        "",
+        ""
+      ]
+    }
+  ]
+}
