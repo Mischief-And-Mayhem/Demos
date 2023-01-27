@@ -1,7 +1,7 @@
 {
 "companyName": "MischiefAndMayhemStudios",
 "productName": "Cavern Boom",
-"productVersion": "0.1",
+"productVersion": "0.2",
 "dataUrl": "CavernBoom.data.unityweb",
 "wasmCodeUrl": "CavernBoom.wasm.code.unityweb",
 "wasmFrameworkUrl": "CavernBoom.wasm.framework.unityweb",
