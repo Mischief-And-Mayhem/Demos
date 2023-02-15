@@ -1,0 +1,814 @@
+{
+    "Conversations": [
+        {
+            "PreRequsites": [
+                {
+                    "ID": 0,
+                    "Data": [
+                        1,
+                        4,
+                        -1,
+                        1,
+                        0
+                    ]
+                },
+                {
+                    "ID": 2,
+                    "Data": [
+                        0
+                    ]
+                },
+                {
+                    "ID": 0,
+                    "Data": [
+                        1,
+                        24,
+                        -1,
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "ConversationElements": [
+                {
+                    "Guid": 1425014784,
+                    "Text": "...\t\t\t\t\t\t\t",
+                    "Emotion": 0,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": -1421516800,
+                            "OptionKarma": 0,
+                            "Guid": 318537728,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": -1421516800,
+                    "Text": "Hm?\t\t\t",
+                    "Emotion": 0,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": -679477248,
+                            "OptionKarma": 0,
+                            "Guid": 1827432960,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": -679477248,
+                    "Text": "Oh, yes. Hello. May I help you?\t",
+                    "Emotion": 0,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": "Yes, I was looking for a rock.\t\t\t\t\t\t\t",
+                            "IndexToConnectTo": 322699264,
+                            "OptionKarma": 0,
+                            "Guid": 1454690304,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        },
+                        {
+                            "PreRequsites": [],
+                            "Text": "No.\t\t\t\t\t\t\t",
+                            "IndexToConnectTo": 168413312,
+                            "OptionKarma": 0,
+                            "Guid": -1169686528,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": 1818568704,
+                    "Text": "Oh! Hello. Sorry, I sometimes get lost in what I'm working on. \t",
+                    "Emotion": 0,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": -1534681088,
+                            "OptionKarma": 0,
+                            "Guid": -132691968,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": -1534681088,
+                    "Text": "Is there anything I can do for you?",
+                    "Emotion": 0,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": "Where does Stanton normally leave his things?\t\t",
+                            "IndexToConnectTo": 2002649088,
+                            "OptionKarma": 0,
+                            "Guid": -1992130944,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": 2002649088,
+                    "Text": "Normally, I think he accidentally leaves behind items in the exam room.",
+                    "Emotion": 0,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": -958300160,
+                            "OptionKarma": 0,
+                            "Guid": 644857856,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": -958300160,
+                    "Text": "But if I do find anything belonging to someone else, I normally pack them into Stanton's locker.\t",
+                    "Emotion": 0,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": 1376190464,
+                            "OptionKarma": 0,
+                            "Guid": -1904610048,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": 1376190464,
+                    "Text": "It looks like I don't have anything of Stanton's in my desk right now, but you are welcome to check out the exam room and his locker.\t",
+                    "Emotion": 0,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": -31981568,
+                            "OptionKarma": 0,
+                            "Guid": 1019793152,
+                            "OnChosenTriggers": [
+                                2,
+                                4
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": -31981568,
+                    "Text": "If you could bring back the key once you're done, I'd most certainly appreciate it.\t",
+                    "Emotion": 0,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": "Of course! The key is yours.\t\t\t\t\t\t\t",
+                            "IndexToConnectTo": -895746048,
+                            "OptionKarma": 1,
+                            "Guid": -1178015744,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        },
+                        {
+                            "PreRequsites": [],
+                            "Text": "I don't think I will.\t\t\t\t\t\t\t",
+                            "IndexToConnectTo": 1114112000,
+                            "OptionKarma": -1,
+                            "Guid": -1355677696,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": -895746048,
+                    "Text": "Thank you! See you shortly.\t",
+                    "Emotion": 0,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": -1,
+                            "OptionKarma": 0,
+                            "Guid": -1974157312,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": 1114112000,
+                    "Text": "Hey. That's the key to my exam room. I will not stand for a thief in my office.",
+                    "Emotion": 0,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": "Just kidding! Your key will be returned shortly.\t\t",
+                            "IndexToConnectTo": -664293376,
+                            "OptionKarma": 1,
+                            "Guid": 1954971648,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        },
+                        {
+                            "PreRequsites": [],
+                            "Text": "No, actually. This is mine.",
+                            "IndexToConnectTo": 1873805312,
+                            "OptionKarma": -1,
+                            "Guid": -1350795264,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": -664293376,
+                    "Text": "Weird sense of humor you got there, but alright. Thank you.",
+                    "Emotion": 0,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": -1,
+                            "OptionKarma": 0,
+                            "Guid": -886308864,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": 1873805312,
+                    "Text": "You do realize that I'm just trying to help you out, right?\t\t",
+                    "Emotion": 0,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": -443836416,
+                            "OptionKarma": 0,
+                            "Guid": 396361728,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": -443836416,
+                    "Text": "You seem to be off from your usual self. Maybe you're under the weather...  ",
+                    "Emotion": 0,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": 1503092736,
+                            "OptionKarma": 0,
+                            "Guid": -598573056,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": 1503092736,
+                    "Text": "Would you reconsider taking my key?\t",
+                    "Emotion": 0,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": "Okay, I'll give you back the key.\t\t",
+                            "IndexToConnectTo": 391380992,
+                            "OptionKarma": 1,
+                            "Guid": -301203456,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        },
+                        {
+                            "PreRequsites": [],
+                            "Text": "You mean, give you my key? No thanks.",
+                            "IndexToConnectTo": -1772093440,
+                            "OptionKarma": -1,
+                            "Guid": 535875840,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": 391380992,
+                    "Text": "I don't get it. What changed?\t",
+                    "Emotion": 0,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": 1393577984,
+                            "OptionKarma": 0,
+                            "Guid": 0,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": 1393577984,
+                    "Text": "But I appreciate that you'll give me the key back.",
+                    "Emotion": 0,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": -1,
+                            "OptionKarma": 0,
+                            "Guid": -449478656,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": -1772093440,
+                    "Text": "Yep. Something is definitely off with you.",
+                    "Emotion": 0,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": -1322254336,
+                            "OptionKarma": 0,
+                            "Guid": -2042626048,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": -1322254336,
+                    "Text": "If that's how you're treating friends nowadays, then I don't think I have the desire to be in your company anymore.\t",
+                    "Emotion": 0,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": -1849919168,
+                            "OptionKarma": 0,
+                            "Guid": -381599744,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": -1849919168,
+                    "Text": "Please leave.",
+                    "Emotion": 0,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": -1,
+                            "OptionKarma": 0,
+                            "Guid": -1114058240,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": 168413312,
+                    "Text": "Okay... ",
+                    "Emotion": 0,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": -1,
+                            "OptionKarma": 0,
+                            "Guid": 1479417760,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": 322699264,
+                    "Text": "There are plenty of rocks in the area. Not sure why you'd be looking here during school hours.\t",
+                    "Emotion": 0,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": 1612495072,
+                            "OptionKarma": 0,
+                            "Guid": -1214504960,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": 1612495072,
+                    "Text": "The children are currently playing, and I believe one of the children is quite taken with a specific rock.",
+                    "Emotion": 0,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": -144277504,
+                            "OptionKarma": 0,
+                            "Guid": -1146421248,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": -144277504,
+                    "Text": "If you really wanted to talk to them, I guess I see no harm. Just don't loiter.\t",
+                    "Emotion": 0,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": -1,
+                            "OptionKarma": 0,
+                            "Guid": 1420115968,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "EntryPoint": 1425014784
+        },
+        {
+            "PreRequsites": [
+                {
+                    "ID": 0,
+                    "Data": [
+                        1,
+                        4,
+                        -1,
+                        2,
+                        5
+                    ]
+                },
+                {
+                    "ID": 2,
+                    "Data": [
+                        0
+                    ]
+                },
+                {
+                    "ID": 0,
+                    "Data": [
+                        1,
+                        24,
+                        -1,
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "ConversationElements": [
+                {
+                    "Guid": -2087375232,
+                    "Text": "...\t\t\t\t\t\t\t",
+                    "Emotion": 0,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": -1,
+                            "OptionKarma": 0,
+                            "Guid": -1272849920,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "EntryPoint": -2087375232
+        },
+        {
+            "PreRequsites": [
+                {
+                    "ID": 0,
+                    "Data": [
+                        1,
+                        24,
+                        -1,
+                        1,
+                        0
+                    ]
+                }
+            ],
+            "ConversationElements": [
+                {
+                    "Guid": 2109120112,
+                    "Text": "...",
+                    "Emotion": 0,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": 577867776,
+                            "OptionKarma": 0,
+                            "Guid": -1642604672,
+                            "OnChosenTriggers": [
+                                3,
+                                1
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": 801112064,
+                    "Text": "Perhaps Dannie has better insight.",
+                    "Emotion": 0,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": -1,
+                            "OptionKarma": 0,
+                            "Guid": -1408395264,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": 388497408,
+                    "Text": "I see you played with Cherry for that rock?",
+                    "Emotion": 0,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": 828629760,
+                            "OptionKarma": 0,
+                            "Guid": 938049536,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": 2046521344,
+                    "Text": "That thing was on its last leg for months, though. Not sure why she was so surprised that playing rough was not the best action to maintain proper working order.",
+                    "Emotion": 0,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": 801112064,
+                            "OptionKarma": 0,
+                            "Guid": -886276096,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": 577867776,
+                    "Text": "Oh. You're still here.",
+                    "Emotion": 0,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": 388497408,
+                            "OptionKarma": 0,
+                            "Guid": -1022653376,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": -231735296,
+                    "Text": "...\t",
+                    "Emotion": 0,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": -1,
+                            "OptionKarma": 0,
+                            "Guid": -748994560,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": -1008914432,
+                    "Text": "Yes, her doll broke because it was very old.\t",
+                    "Emotion": 0,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": 2046521344,
+                            "OptionKarma": 0,
+                            "Guid": 0,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": 828629760,
+                    "Text": "She has been quite the sore loser since the Pie incident.\t",
+                    "Emotion": 0,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": "Pie incident?",
+                            "IndexToConnectTo": -1008914432,
+                            "OptionKarma": 0,
+                            "Guid": -651034624,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        },
+                        {
+                            "PreRequsites": [],
+                            "Text": "Makes sense.",
+                            "IndexToConnectTo": -231735296,
+                            "OptionKarma": 0,
+                            "Guid": -1245646848,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "EntryPoint": 2109120112
+        }
+    ]
+}

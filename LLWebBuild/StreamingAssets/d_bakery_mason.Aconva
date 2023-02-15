@@ -1,0 +1,459 @@
+{
+    "Conversations": [
+        {
+            "PreRequsites": [
+                {
+                    "ID": 0,
+                    "Data": [
+                        1,
+                        4,
+                        -1,
+                        1,
+                        0
+                    ]
+                }
+            ],
+            "ConversationElements": [
+                {
+                    "Guid": 851705856,
+                    "Text": "Back for more puns? Here's a quick one:",
+                    "Emotion": 0,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": -1917452288,
+                            "OptionKarma": 0,
+                            "Guid": 40908800,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": -1917452288,
+                    "Text": "I work here seven glaze a week!\t",
+                    "Emotion": 1,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": -1,
+                            "OptionKarma": 0,
+                            "Guid": 1242228672,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "EntryPoint": 851705856
+        },
+        {
+            "PreRequsites": [
+                {
+                    "ID": 0,
+                    "Data": [
+                        1,
+                        4,
+                        -1,
+                        2,
+                        0
+                    ]
+                }
+            ],
+            "ConversationElements": [
+                {
+                    "Guid": 910592000,
+                    "Text": "I'm stale standing!\t",
+                    "Emotion": 1,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": -1,
+                            "OptionKarma": 0,
+                            "Guid": -837943296,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": []
+                        }
+                    ]
+                }
+            ],
+            "EntryPoint": 910592000
+        },
+        {
+            "PreRequsites": [
+                {
+                    "ID": 0,
+                    "Data": [
+                        1,
+                        4,
+                        -1,
+                        3,
+                        0
+                    ]
+                }
+            ],
+            "ConversationElements": [
+                {
+                    "Guid": 1364737216,
+                    "Text": "Hmm.. Here's another:\t\t\t\t\t\t\t",
+                    "Emotion": 0,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": 1308622848,
+                            "OptionKarma": 0,
+                            "Guid": 1526726656,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": []
+                        }
+                    ]
+                },
+                {
+                    "Guid": 1308622848,
+                    "Text": "Don't my puns stale the show?\t\t\t\t\t\t\t",
+                    "Emotion": 1,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": -1,
+                            "OptionKarma": 0,
+                            "Guid": 822083584,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": []
+                        }
+                    ]
+                }
+            ],
+            "EntryPoint": 1364737216
+        },
+        {
+            "PreRequsites": [
+                {
+                    "ID": 0,
+                    "Data": [
+                        1,
+                        4,
+                        -1,
+                        4,
+                        0
+                    ]
+                }
+            ],
+            "ConversationElements": [
+                {
+                    "Guid": -612368384,
+                    "Text": "Bake for more? Haha! Sorry to burst out loafin'.",
+                    "Emotion": 0,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": -1,
+                            "OptionKarma": 0,
+                            "Guid": -2092957696,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": []
+                        }
+                    ]
+                }
+            ],
+            "EntryPoint": -612368384
+        },
+        {
+            "PreRequsites": [
+                {
+                    "ID": 0,
+                    "Data": [
+                        1,
+                        4,
+                        -1,
+                        5,
+                        0
+                    ]
+                }
+            ],
+            "ConversationElements": [
+                {
+                    "Guid": -1931476992,
+                    "Text": "I like to go with the dough.\t\t\t\t\t\t\t",
+                    "Emotion": 0,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": -1,
+                            "OptionKarma": 0,
+                            "Guid": 889847808,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": []
+                        }
+                    ]
+                }
+            ],
+            "EntryPoint": -1931476992
+        },
+        {
+            "PreRequsites": [
+                {
+                    "ID": 0,
+                    "Data": [
+                        1,
+                        4,
+                        -1,
+                        6,
+                        0
+                    ]
+                }
+            ],
+            "ConversationElements": [
+                {
+                    "Guid": -2011639808,
+                    "Text": "I've got these puns whenever you knead them.",
+                    "Emotion": 0,
+                    "Options": []
+                }
+            ],
+            "EntryPoint": -2011639808
+        },
+        {
+            "PreRequsites": [
+                {
+                    "ID": 0,
+                    "Data": [
+                        1,
+                        4,
+                        -1,
+                        7,
+                        0
+                    ]
+                }
+            ],
+            "ConversationElements": [
+                {
+                    "Guid": 0,
+                    "Text": "You caught be bread-handed! I'm almost out of baking puns for today!",
+                    "Emotion": 0,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": -1,
+                            "OptionKarma": 0,
+                            "Guid": 1425801216,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": []
+                        }
+                    ]
+                }
+            ],
+            "EntryPoint": 0
+        },
+        {
+            "PreRequsites": [
+                {
+                    "ID": 0,
+                    "Data": [
+                        1,
+                        4,
+                        -1,
+                        8,
+                        0
+                    ]
+                }
+            ],
+            "ConversationElements": [
+                {
+                    "Guid": 223182848,
+                    "Text": "Crust in time! There's another good bun pun.",
+                    "Emotion": 1,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": -1,
+                            "OptionKarma": 0,
+                            "Guid": 221148160,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": []
+                        }
+                    ]
+                }
+            ],
+            "EntryPoint": 223182848
+        },
+        {
+            "PreRequsites": [
+                {
+                    "ID": 0,
+                    "Data": [
+                        1,
+                        4,
+                        -1,
+                        9,
+                        0
+                    ]
+                }
+            ],
+            "ConversationElements": [
+                {
+                    "Guid": -1233453056,
+                    "Text": "All things must crumb to an end...",
+                    "Emotion": 3,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": -1,
+                            "OptionKarma": 0,
+                            "Guid": 685768704,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": []
+                        }
+                    ]
+                }
+            ],
+            "EntryPoint": -1233453056
+        },
+        {
+            "PreRequsites": [
+                {
+                    "ID": 0,
+                    "Data": [
+                        1,
+                        4,
+                        -1,
+                        10,
+                        0
+                    ]
+                }
+            ],
+            "ConversationElements": [
+                {
+                    "Guid": -331350016,
+                    "Text": "Your dedication to puns is most impressive.\t",
+                    "Emotion": 0,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": -1,
+                            "OptionKarma": 0,
+                            "Guid": 1066598400,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": []
+                        }
+                    ]
+                },
+                {
+                    "Guid": -1567350784,
+                    "Text": "",
+                    "Emotion": 0,
+                    "Options": []
+                }
+            ],
+            "EntryPoint": -331350016
+        },
+        {
+            "PreRequsites": [
+                {
+                    "ID": 0,
+                    "Data": [
+                        1,
+                        4,
+                        -1,
+                        11,
+                        0
+                    ]
+                }
+            ],
+            "ConversationElements": [
+                {
+                    "Guid": 1782054912,
+                    "Text": "Have this pin, it's the yeast I can do.\t",
+                    "Emotion": 0,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": -1,
+                            "OptionKarma": 0,
+                            "Guid": -1028653056,
+                            "OnChosenTriggers": [
+                                2,
+                                1
+                            ],
+                            "TriggerSeperationOffsets": []
+                        }
+                    ]
+                }
+            ],
+            "EntryPoint": 1782054912
+        },
+        {
+            "PreRequsites": [
+                {
+                    "ID": 0,
+                    "Data": [
+                        1,
+                        4,
+                        -1,
+                        12,
+                        5
+                    ]
+                }
+            ],
+            "ConversationElements": [
+                {
+                    "Guid": -690028544,
+                    "Text": "I knead to bake up more puns before I'm bready for you to come back to chat.",
+                    "Emotion": 0,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": -1,
+                            "OptionKarma": 0,
+                            "Guid": 647495680,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": []
+                        }
+                    ]
+                }
+            ],
+            "EntryPoint": -690028544
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "Conversations": [
+        {
+            "PreRequsites": [
+                {
+                    "ID": 0,
+                    "Data": [
+                        1,
+                        4,
+                        -1,
+                        1,
+                        0
+                    ]
+                }
+            ],
+            "ConversationElements": [
+                {
+                    "Guid": 800587776,
+                    "Text": "I owlways appreciate a good book.",
+                    "Emotion": 1,
+                    "Options": []
+                }
+            ],
+            "EntryPoint": 800587776
+        },
+        {
+            "PreRequsites": [
+                {
+                    "ID": 0,
+                    "Data": [
+                        1,
+                        4,
+                        -1,
+                        2,
+                        0
+                    ]
+                }
+            ],
+            "ConversationElements": [
+                {
+                    "Guid": 1132961792,
+                    "Text": "Do you comma here often?\t\t\t\t\t\t\t",
+                    "Emotion": 0,
+                    "Options": []
+                }
+            ],
+            "EntryPoint": 1132961792
+        },
+        {
+            "PreRequsites": [
+                {
+                    "ID": 0,
+                    "Data": [
+                        1,
+                        4,
+                        -1,
+                        3,
+                        0
+                    ]
+                }
+            ],
+            "ConversationElements": [
+                {
+                    "Guid": -1197146112,
+                    "Text": "Metaphors be with you.\t\t\t\t\t\t\t",
+                    "Emotion": 1,
+                    "Options": []
+                }
+            ],
+            "EntryPoint": -1197146112
+        },
+        {
+            "PreRequsites": [
+                {
+                    "ID": 0,
+                    "Data": [
+                        1,
+                        4,
+                        -1,
+                        4,
+                        0
+                    ]
+                }
+            ],
+            "ConversationElements": [
+                {
+                    "Guid": -758890496,
+                    "Text": "Stay true to your shelf.\t",
+                    "Emotion": 1,
+                    "Options": []
+                }
+            ],
+            "EntryPoint": -758890496
+        },
+        {
+            "PreRequsites": [
+                {
+                    "ID": 0,
+                    "Data": [
+                        1,
+                        4,
+                        -1,
+                        4,
+                        3
+                    ]
+                }
+            ],
+            "ConversationElements": [
+                {
+                    "Guid": 1300430848,
+                    "Text": "Sorry, I'm outta puns. Gotta ask my dad to bake a few more for tomorrow.\t",
+                    "Emotion": 0,
+                    "Options": []
+                }
+            ],
+            "EntryPoint": 1300430848
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "Conversations": [
+        {
+            "PreRequsites": [
+                {
+                    "ID": 0,
+                    "Data": [
+                        1,
+                        1,
+                        -1,
+                        0,
+                        3
+                    ]
+                }
+            ],
+            "ConversationElements": [
+                {
+                    "Guid": -1599340544,
+                    "Text": "-munch munch munch-",
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": "I'll leave you to it",
+                            "IndexToConnectTo": -1,
+                            "OptionKarma": 0,
+                            "Guid": 561217536,
+                            "OnChosenTriggers": [
+                                0
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "EntryPoint": -1599340544
+        },
+        {
+            "PreRequsites": [
+                {
+                    "ID": 0,
+                    "Data": [
+                        1,
+                        0,
+                        -1,
+                        0,
+                        3
+                    ]
+                }
+            ],
+            "ConversationElements": [
+                {
+                    "Guid": 209452288,
+                    "Text": "-Wimper- big meany!",
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": "You deserved it.  No moon logic for me!",
+                            "IndexToConnectTo": -1,
+                            "OptionKarma": 0,
+                            "Guid": 36175872,
+                            "OnChosenTriggers": [
+                                0
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "EntryPoint": 209452288
+        },
+        {
+            "PreRequsites": [],
+            "ConversationElements": [
+                {
+                    "Guid": 1396883456,
+                    "Text": "Greetings!  What can I do for you?",
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": "Have you played Ark Defender",
+                            "IndexToConnectTo": 1816847360,
+                            "OptionKarma": 0,
+                            "Guid": -1660223488,
+                            "OnChosenTriggers": [
+                                0
+                            ]
+                        },
+                        {
+                            "PreRequsites": [],
+                            "Text": "I am looking for a way out of here...",
+                            "IndexToConnectTo": 88342528,
+                            "OptionKarma": 0,
+                            "Guid": -1013246976,
+                            "OnChosenTriggers": [
+                                0
+                            ]
+                        },
+                        {
+                            "PreRequsites": [
+                                {
+                                    "ID": 0,
+                                    "Data": [
+                                        1,
+                                        2,
+                                        -1,
+                                        0,
+                                        3
+                                    ]
+                                }
+                            ],
+                            "Text": "I have your food...",
+                            "IndexToConnectTo": -1599340544,
+                            "OptionKarma": 0,
+                            "Guid": 26558464,
+                            "OnChosenTriggers": [
+                                0
+                            ]
+                        },
+                        {
+                            "PreRequsites": [],
+                            "Text": "Goodbye.",
+                            "IndexToConnectTo": -1,
+                            "OptionKarma": 0,
+                            "Guid": -195223552,
+                            "OnChosenTriggers": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": -1599340544,
+                    "Text": "Thank you! Here is your key!",
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": "Excellent",
+                            "IndexToConnectTo": -1,
+                            "OptionKarma": 1,
+                            "Guid": 445492224,
+                            "OnChosenTriggers": [
+                                1
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": 1816847360,
+                    "Text": "No But I have been meaning to.",
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": "...",
+                            "IndexToConnectTo": 1396883456,
+                            "OptionKarma": 0,
+                            "Guid": 1291845632,
+                            "OnChosenTriggers": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": 88342528,
+                    "Text": "Well, I have a key, but I am very hungry.  Find me some food and I can give it to you.",
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": "Fine.  I will look for food.",
+                            "IndexToConnectTo": -1,
+                            "OptionKarma": 0,
+                            "Guid": -291913728,
+                            "OnChosenTriggers": [
+                                0
+                            ]
+                        },
+                        {
+                            "PreRequsites": [],
+                            "Text": "How about I just beat you up and take it!",
+                            "IndexToConnectTo": -1836920832,
+                            "OptionKarma": -1,
+                            "Guid": 1457782784,
+                            "OnChosenTriggers": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": -1836920832,
+                    "Text": "-Sounds of violence-",
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": "...",
+                            "IndexToConnectTo": -1,
+                            "OptionKarma": -1,
+                            "Guid": -1588330496,
+                            "OnChosenTriggers": [
+                                2
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "EntryPoint": 1396883456
+        }
+    ]
+}
