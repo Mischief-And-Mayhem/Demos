@@ -17,14 +17,14 @@
                 {
                     "Guid": -2119221248,
                     "Text": "*huff huff*\t\t\t\t\t\t\t",
-                    "Emotion": 0,
+                    "Emotion": 9,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": ". . .",
                             "IndexToConnectTo": 650379264,
                             "OptionKarma": 0,
-                            "Guid": -1653030912,
+                            "Guid": -1436811264,
                             "OnChosenTriggers": [
                                 13,
                                 25,
@@ -43,14 +43,14 @@
                 {
                     "Guid": 650379264,
                     "Text": "...oh! Hey!\t\t\t\t\t\t\t",
-                    "Emotion": 0,
+                    "Emotion": 1,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": ". . .",
                             "IndexToConnectTo": 1207959552,
                             "OptionKarma": 0,
-                            "Guid": 739434496,
+                            "Guid": 379600896,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -70,7 +70,7 @@
                             "Text": ". . .",
                             "IndexToConnectTo": -639361472,
                             "OptionKarma": 0,
-                            "Guid": -311394304,
+                            "Guid": -1518491648,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -83,14 +83,14 @@
                 {
                     "Guid": -639361472,
                     "Text": "I was just running and twisted my leg in a weird way, so I'm taking a breather.",
-                    "Emotion": 0,
+                    "Emotion": 9,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": "What did you want to talk about?",
                             "IndexToConnectTo": 752353280,
                             "OptionKarma": 0,
-                            "Guid": -1639055360,
+                            "Guid": -963649536,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -103,14 +103,14 @@
                 {
                     "Guid": 752353280,
                     "Text": "Oh! Uh... Well. ",
-                    "Emotion": 0,
+                    "Emotion": 8,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": ". . .",
                             "IndexToConnectTo": -536870912,
                             "OptionKarma": 0,
-                            "Guid": 823132160,
+                            "Guid": -465043456,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -130,7 +130,7 @@
                             "Text": "Go on...\t\t\t\t\t\t\t",
                             "IndexToConnectTo": -468398080,
                             "OptionKarma": 0,
-                            "Guid": 1130201088,
+                            "Guid": 1949243440,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -143,14 +143,14 @@
                 {
                     "Guid": -468398080,
                     "Text": "I don't know.. ",
-                    "Emotion": 0,
+                    "Emotion": 8,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": ". . .",
                             "IndexToConnectTo": -1985624064,
                             "OptionKarma": 0,
-                            "Guid": -982515712,
+                            "Guid": -1233715200,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -170,7 +170,7 @@
                             "Text": ". . .",
                             "IndexToConnectTo": -162267136,
                             "OptionKarma": 0,
-                            "Guid": 2054225920,
+                            "Guid": 1702887424,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -190,7 +190,7 @@
                             "Text": ". . .",
                             "IndexToConnectTo": -1320681472,
                             "OptionKarma": 0,
-                            "Guid": 1719664640,
+                            "Guid": 1568209920,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -210,7 +210,7 @@
                             "Text": ". . .",
                             "IndexToConnectTo": -1926496256,
                             "OptionKarma": 0,
-                            "Guid": -65699840,
+                            "Guid": 2028478464,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -223,14 +223,14 @@
                 {
                     "Guid": -1926496256,
                     "Text": "NOPE. Not happening.",
-                    "Emotion": 0,
+                    "Emotion": 10,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": ". . .",
                             "IndexToConnectTo": 536870912,
                             "OptionKarma": 0,
-                            "Guid": 428224512,
+                            "Guid": -1291845632,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -250,7 +250,7 @@
                             "Text": "Sure, I can help.\t\t\t\t\t\t\t",
                             "IndexToConnectTo": -524746752,
                             "OptionKarma": 0,
-                            "Guid": 1854668800,
+                            "Guid": 1573584896,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -263,7 +263,7 @@
                             "Text": "It would be my pleasure!\t\t\t\t\t\t\t",
                             "IndexToConnectTo": -199163904,
                             "OptionKarma": 0,
-                            "Guid": 1867186176,
+                            "Guid": -548143104,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -276,14 +276,14 @@
                 {
                     "Guid": -524746752,
                     "Text": "Oh great! I can try coming with you.\t\t\t",
-                    "Emotion": 0,
+                    "Emotion": 1,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": ". . .",
                             "IndexToConnectTo": -2059665408,
                             "OptionKarma": 0,
-                            "Guid": -1342177280,
+                            "Guid": 855638016,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -296,14 +296,14 @@
                 {
                     "Guid": -2059665408,
                     "Text": "Actually, maybe I'll just stay here for a bit.",
-                    "Emotion": 0,
+                    "Emotion": 10,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": ". . .",
                             "IndexToConnectTo": -1,
                             "OptionKarma": 0,
-                            "Guid": 197132288,
+                            "Guid": 47906816,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -316,14 +316,14 @@
                 {
                     "Guid": -199163904,
                     "Text": "Come back when you've got the stone!",
-                    "Emotion": 0,
+                    "Emotion": 1,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": ". . .",
                             "IndexToConnectTo": -1462763520,
                             "OptionKarma": 0,
-                            "Guid": -2147483648,
+                            "Guid": 314310656,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -336,14 +336,14 @@
                 {
                     "Guid": -1462763520,
                     "Text": "Oh, I'll be fine waiting here until you get back.",
-                    "Emotion": 0,
+                    "Emotion": 1,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": ". . .",
                             "IndexToConnectTo": -1,
                             "OptionKarma": 0,
-                            "Guid": 847249408,
+                            "Guid": -1300234240,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -389,14 +389,14 @@
                 {
                     "Guid": 785383424,
                     "Text": "Good luck! I'll be resting here a bit.",
-                    "Emotion": 0,
+                    "Emotion": 1,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": ". . .",
                             "IndexToConnectTo": -1,
                             "OptionKarma": 0,
-                            "Guid": -651476992,
+                            "Guid": -1377786624,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -449,7 +449,7 @@
                             "Text": "I found the stone!\t",
                             "IndexToConnectTo": -160432128,
                             "OptionKarma": 0,
-                            "Guid": 503840768,
+                            "Guid": -879026688,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -462,14 +462,14 @@
                 {
                     "Guid": -160432128,
                     "Text": "Oh, thank goodness, this rock means a lot to me.\t",
-                    "Emotion": 0,
+                    "Emotion": 1,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": ". . .",
                             "IndexToConnectTo": 1077936128,
                             "OptionKarma": 0,
-                            "Guid": -233046016,
+                            "Guid": -1940652032,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -482,14 +482,14 @@
                 {
                     "Guid": 1077936128,
                     "Text": "I found it when I was little, and it helped to boost my confidence!",
-                    "Emotion": 0,
+                    "Emotion": 1,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": ". . .",
                             "IndexToConnectTo": 1056309248,
                             "OptionKarma": 0,
-                            "Guid": 140967936,
+                            "Guid": -301989888,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -502,14 +502,14 @@
                 {
                     "Guid": 1056309248,
                     "Text": "Whenever I have gone anywhere with it, the lucky stone has brought me some good fortune!\t",
-                    "Emotion": 0,
+                    "Emotion": 1,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": ". . .",
                             "IndexToConnectTo": 1620150656,
                             "OptionKarma": 0,
-                            "Guid": 1242427776,
+                            "Guid": -122355712,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -522,14 +522,14 @@
                 {
                     "Guid": 1620150656,
                     "Text": "And I was thinking...\t\t\t\t\t\t\t",
-                    "Emotion": 0,
+                    "Emotion": 8,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": ". . .",
                             "IndexToConnectTo": -1610612736,
                             "OptionKarma": 0,
-                            "Guid": -68009984,
+                            "Guid": 1505951744,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -542,14 +542,14 @@
                 {
                     "Guid": -1610612736,
                     "Text": "I don't know..\t",
-                    "Emotion": 0,
+                    "Emotion": 8,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": ". . .",
                             "IndexToConnectTo": 327680000,
                             "OptionKarma": 0,
-                            "Guid": 655400960,
+                            "Guid": 1744830464,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -562,14 +562,14 @@
                 {
                     "Guid": 327680000,
                     "Text": "You've almost been like a lucky stone to me.",
-                    "Emotion": 0,
+                    "Emotion": 8,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": ". . .",
                             "IndexToConnectTo": 604761088,
                             "OptionKarma": 0,
-                            "Guid": -460046336,
+                            "Guid": 285736960,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -582,14 +582,14 @@
                 {
                     "Guid": 604761088,
                     "Text": "I want you to have it.\t\t\t\t\t\t\t",
-                    "Emotion": 0,
+                    "Emotion": 1,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": ". . .",
                             "IndexToConnectTo": -1294241792,
                             "OptionKarma": 0,
-                            "Guid": 1076887552,
+                            "Guid": -1408384000,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -602,14 +602,14 @@
                 {
                     "Guid": -1294241792,
                     "Text": "You helped me find it, and you've always been there for me. Maybe you can hold it for me for safe keeping.",
-                    "Emotion": 0,
+                    "Emotion": 1,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": "It would be my honor to hold onto it.",
                             "IndexToConnectTo": -503316480,
                             "OptionKarma": 1,
-                            "Guid": -849346560,
+                            "Guid": 965772032,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -622,7 +622,7 @@
                             "Text": "It's just a rock. I'll keep it because I need it- not because you want me to have it.",
                             "IndexToConnectTo": -476479488,
                             "OptionKarma": -1,
-                            "Guid": 492830720,
+                            "Guid": -302481408,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -635,14 +635,14 @@
                 {
                     "Guid": -503316480,
                     "Text": "Awesome, I'm glad you like it!\t\t",
-                    "Emotion": 0,
+                    "Emotion": 1,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": ". . .",
                             "IndexToConnectTo": -2101010432,
                             "OptionKarma": 0,
-                            "Guid": -1946157056,
+                            "Guid": -294240256,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -662,7 +662,7 @@
                             "Text": ". . .",
                             "IndexToConnectTo": 34209792,
                             "OptionKarma": 0,
-                            "Guid": -587530240,
+                            "Guid": 1437810688,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -675,14 +675,14 @@
                 {
                     "Guid": 34209792,
                     "Text": "See you around!",
-                    "Emotion": 0,
+                    "Emotion": 1,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": ". . .",
                             "IndexToConnectTo": -1,
                             "OptionKarma": 0,
-                            "Guid": 576646656,
+                            "Guid": -260046848,
                             "OnChosenTriggers": [
                                 0,
                                 13,
@@ -699,14 +699,14 @@
                 {
                     "Guid": -476479488,
                     "Text": "Oh. Well... ok.",
-                    "Emotion": 0,
+                    "Emotion": 3,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": ". . .",
                             "IndexToConnectTo": 1923510272,
                             "OptionKarma": 0,
-                            "Guid": -1010840576,
+                            "Guid": -2055208960,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -719,14 +719,14 @@
                 {
                     "Guid": 1923510272,
                     "Text": "Kind of mean of you to keep it...",
-                    "Emotion": 0,
+                    "Emotion": 3,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": ". . .",
                             "IndexToConnectTo": -1,
                             "OptionKarma": 0,
-                            "Guid": 247558144,
+                            "Guid": -1522578432,
                             "OnChosenTriggers": [
                                 0,
                                 13,
@@ -760,14 +760,14 @@
                 {
                     "Guid": 797966336,
                     "Text": "See you around! I'm heading back to see my Dads at the Taxi place.",
-                    "Emotion": 0,
+                    "Emotion": 1,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": ". . .",
                             "IndexToConnectTo": -1,
                             "OptionKarma": 0,
-                            "Guid": 1427734528,
+                            "Guid": 196173824,
                             "OnChosenTriggers": [
                                 0
                             ],

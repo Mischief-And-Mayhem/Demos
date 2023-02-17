@@ -1,0 +1,781 @@
+{
+    "Conversations": [
+        {
+            "PreRequsites": [
+                {
+                    "ID": 0,
+                    "Data": [
+                        1,
+                        25,
+                        -1,
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "ConversationElements": [
+                {
+                    "Guid": 265256960,
+                    "Text": "Hey, don't bother me! I'm about to beat Dannie in marlbes and I don't wanna get distracted!",
+                    "Emotion": 1,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": -1776812032,
+                            "OptionKarma": 0,
+                            "Guid": -2044559360,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": -1776812032,
+                    "Text": "It's okay, maybe they just want to watch?\t\t\t\t\t\t\t",
+                    "Emotion": 7,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": "Yes, I'd like that!\t\t\t\t\t\t\t",
+                            "IndexToConnectTo": -1196630016,
+                            "OptionKarma": 0,
+                            "Guid": 2129133568,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        },
+                        {
+                            "PreRequsites": [],
+                            "Text": "Nope. See ya!\t\t\t\t\t\t\t",
+                            "IndexToConnectTo": -1,
+                            "OptionKarma": 0,
+                            "Guid": -1056964608,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": -1196630016,
+                    "Text": "Ugh... fine, but only so they can watch me win!",
+                    "Emotion": 2,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": 2142153856,
+                            "OptionKarma": 0,
+                            "Guid": -1073741824,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": 469037056,
+                    "Text": "That's okay, it's pretty easy",
+                    "Emotion": 8,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": 1462018048,
+                            "OptionKarma": 0,
+                            "Guid": 1302298624,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": 2142153856,
+                    "Text": "Do you know how to play? ",
+                    "Emotion": 7,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": "I do",
+                            "IndexToConnectTo": 1903009792,
+                            "OptionKarma": 0,
+                            "Guid": 1107296256,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        },
+                        {
+                            "PreRequsites": [],
+                            "Text": "Not really",
+                            "IndexToConnectTo": 469037056,
+                            "OptionKarma": 0,
+                            "Guid": -1041532928,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": 1903009792,
+                    "Text": "Great! So whoever has the most points at the end will be the marble champion!",
+                    "Emotion": 8,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": 1264566272,
+                            "OptionKarma": 0,
+                            "Guid": -522715136,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": 1462018048,
+                    "Text": "All you have to do is knock marbles out of a circle with a big marble. That gets you points ",
+                    "Emotion": 7,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": 1290953728,
+                            "OptionKarma": 0,
+                            "Guid": 548752256,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": 1290953728,
+                    "Text": "The trick is that you lose a point if the big marble goes out of the circle",
+                    "Emotion": 7,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": 1574959104,
+                            "OptionKarma": 0,
+                            "Guid": 416808960,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": 1574959104,
+                    "Text": "Whoever has the most points by the end wins. ",
+                    "Emotion": 7,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": 1264566272,
+                            "OptionKarma": 0,
+                            "Guid": 1015021568,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": 1264566272,
+                    "Text": "Which is me this time, take that Dannie!",
+                    "Emotion": 1,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": 1522073600,
+                            "OptionKarma": 0,
+                            "Guid": 306741248,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": 1522073600,
+                    "Text": "Wha- hey! You skipped my turn. ",
+                    "Emotion": 10,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": -1992374912,
+                            "OptionKarma": 0,
+                            "Guid": -231481344,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": 1048662016,
+                    "Text": "",
+                    "Emotion": 0,
+                    "Options": []
+                },
+                {
+                    "Guid": -1992374912,
+                    "Text": "Too bad, another win for me!",
+                    "Emotion": 1,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": "What's with the weird rock over there?",
+                            "IndexToConnectTo": 997949056,
+                            "OptionKarma": 0,
+                            "Guid": 555220992,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        },
+                        {
+                            "PreRequsites": [],
+                            "Text": "I'm taking that rock",
+                            "IndexToConnectTo": 1795162112,
+                            "OptionKarma": 0,
+                            "Guid": 1452343296,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": 1795162112,
+                    "Text": "HEY! That's our rock, you can't just take it!",
+                    "Emotion": 2,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": "Too bad",
+                            "IndexToConnectTo": -1,
+                            "OptionKarma": -1,
+                            "Guid": -151219968,
+                            "OnChosenTriggers": [
+                                2,
+                                10,
+                                13,
+                                25,
+                                5,
+                                13,
+                                26,
+                                1
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0,
+                                2,
+                                5
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": 997949056,
+                    "Text": "Oh, that? I don’t think it's weird. It just kind of sits, you know?\t",
+                    "Emotion": 0,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": 1377896320,
+                            "OptionKarma": 0,
+                            "Guid": 1135476736,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": 1377896320,
+                    "Text": "Actually, that's Rocky, and he's sunbathing right now",
+                    "Emotion": 7,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": -190168064,
+                            "OptionKarma": 0,
+                            "Guid": -2040528896,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": -190168064,
+                    "Text": "Ah- that's right. Dannie named it.",
+                    "Emotion": 0,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": -979456000,
+                            "OptionKarma": 0,
+                            "Guid": -1398153216,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": -979456000,
+                    "Text": "Rocky cheers me on when we play marbles.",
+                    "Emotion": 8,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": "May I have Rocky?",
+                            "IndexToConnectTo": 190561280,
+                            "OptionKarma": 0,
+                            "Guid": 358948864,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        },
+                        {
+                            "PreRequsites": [],
+                            "Text": "Rocky is mine now!",
+                            "IndexToConnectTo": 1795162112,
+                            "OptionKarma": 0,
+                            "Guid": 589856768,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": 190561280,
+                    "Text": "How about you beat me in marbles first, then we'll talk.\t",
+                    "Emotion": 0,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": -1,
+                            "OptionKarma": 0,
+                            "Guid": -1183842304,
+                            "OnChosenTriggers": [
+                                4,
+                                0,
+                                13,
+                                25,
+                                1
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0,
+                                2
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "EntryPoint": 265256960
+        },
+        {
+            "PreRequsites": [
+                {
+                    "ID": 0,
+                    "Data": [
+                        1,
+                        25,
+                        -1,
+                        1,
+                        0
+                    ]
+                },
+                {
+                    "ID": 2,
+                    "Data": [
+                        0
+                    ]
+                },
+                {
+                    "ID": 0,
+                    "Data": [
+                        1,
+                        24,
+                        -1,
+                        1,
+                        0
+                    ]
+                },
+                {
+                    "ID": 2,
+                    "Data": [
+                        0
+                    ]
+                },
+                {
+                    "ID": 0,
+                    "Data": [
+                        1,
+                        5,
+                        -1,
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "ConversationElements": [
+                {
+                    "Guid": 799014912,
+                    "Text": "Another win for the marble champion! Hahaha, I'm so good at this",
+                    "Emotion": 1,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": -42414080,
+                            "OptionKarma": 0,
+                            "Guid": 546242560,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": -42414080,
+                    "Text": "You don't have to brag about it",
+                    "Emotion": 7,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": 978321408,
+                            "OptionKarma": 0,
+                            "Guid": -49446912,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": 978321408,
+                    "Text": "Yes I do",
+                    "Emotion": 1,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": 1755844608,
+                            "OptionKarma": 0,
+                            "Guid": -1726464000,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": 1755844608,
+                    "Text": "Wanna try again?",
+                    "Emotion": 0,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": "Yes",
+                            "IndexToConnectTo": -1,
+                            "OptionKarma": 0,
+                            "Guid": -334397440,
+                            "OnChosenTriggers": [
+                                4,
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        },
+                        {
+                            "PreRequsites": [],
+                            "Text": "No",
+                            "IndexToConnectTo": -1,
+                            "OptionKarma": 0,
+                            "Guid": -1982075392,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "EntryPoint": 799014912
+        },
+        {
+            "PreRequsites": [
+                {
+                    "ID": 0,
+                    "Data": [
+                        1,
+                        25,
+                        -1,
+                        1,
+                        0
+                    ]
+                },
+                {
+                    "ID": 2,
+                    "Data": [
+                        0
+                    ]
+                },
+                {
+                    "ID": 0,
+                    "Data": [
+                        1,
+                        24,
+                        -1,
+                        1,
+                        0
+                    ]
+                },
+                {
+                    "ID": 2,
+                    "Data": [
+                        0
+                    ]
+                },
+                {
+                    "ID": 0,
+                    "Data": [
+                        1,
+                        5,
+                        -1,
+                        1,
+                        0
+                    ]
+                }
+            ],
+            "ConversationElements": [
+                {
+                    "Guid": -309624832,
+                    "Text": "You beat me!? This is so unfair! You know what? You can't have Rocky!",
+                    "Emotion": 2,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": -2027835392,
+                            "OptionKarma": 0,
+                            "Guid": 1258053632,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": -2027835392,
+                    "Text": "Cherry? Cherry, come back!\t",
+                    "Emotion": 10,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": -1,
+                            "OptionKarma": 0,
+                            "Guid": -323751936,
+                            "OnChosenTriggers": [
+                                13,
+                                25,
+                                6
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "EntryPoint": -309624832
+        },
+        {
+            "PreRequsites": [
+                {
+                    "ID": 0,
+                    "Data": [
+                        1,
+                        25,
+                        -1,
+                        5,
+                        0
+                    ]
+                }
+            ],
+            "ConversationElements": [
+                {
+                    "Guid": 1239941120,
+                    "Text": "Jerk!",
+                    "Emotion": 2,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": 1915748352,
+                            "OptionKarma": 0,
+                            "Guid": -1808991232,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guid": 1915748352,
+                    "Text": "...",
+                    "Emotion": 9,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": -1,
+                            "OptionKarma": 0,
+                            "Guid": 1073741824,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "EntryPoint": 1239941120
+        },
+        {
+            "PreRequsites": [
+                {
+                    "ID": 0,
+                    "Data": [
+                        1,
+                        25,
+                        -1,
+                        6,
+                        0
+                    ]
+                }
+            ],
+            "ConversationElements": [
+                {
+                    "Guid": -122863616,
+                    "Text": "Thank you for getting Pie back! ",
+                    "Emotion": 1,
+                    "Options": [
+                        {
+                            "PreRequsites": [],
+                            "Text": ". . .",
+                            "IndexToConnectTo": -1,
+                            "OptionKarma": 0,
+                            "Guid": 2057306112,
+                            "OnChosenTriggers": [
+                                0
+                            ],
+                            "TriggerSeperationOffsets": [
+                                0
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "EntryPoint": -122863616
+        }
+    ]
+}

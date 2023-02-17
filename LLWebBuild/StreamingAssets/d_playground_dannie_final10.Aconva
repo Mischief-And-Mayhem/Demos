@@ -17,14 +17,14 @@
                 {
                     "Guid": 1113186304,
                     "Text": "Rocky was my friend...",
-                    "Emotion": 0,
+                    "Emotion": 3,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": ". . .",
                             "IndexToConnectTo": -1,
                             "OptionKarma": 0,
-                            "Guid": -1979449344,
+                            "Guid": -1395654656,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -70,14 +70,14 @@
                 {
                     "Guid": -1603665920,
                     "Text": "Hey there! I'm Dannie. Pleased to meet ya!",
-                    "Emotion": 0,
+                    "Emotion": 1,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": ". . .",
                             "IndexToConnectTo": -1040187392,
                             "OptionKarma": 0,
-                            "Guid": 802840576,
+                            "Guid": -67895296,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -97,7 +97,7 @@
                             "Text": ". . .",
                             "IndexToConnectTo": -1,
                             "OptionKarma": 0,
-                            "Guid": 182449408,
+                            "Guid": -508010752,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -182,14 +182,14 @@
                 {
                     "Guid": 1245691904,
                     "Text": "Nice try! You'll get it next time.",
-                    "Emotion": 0,
+                    "Emotion": 1,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": ". . .",
                             "IndexToConnectTo": -1,
                             "OptionKarma": 0,
-                            "Guid": -1066270720,
+                            "Guid": 1851785216,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -235,14 +235,14 @@
                 {
                     "Guid": 316669952,
                     "Text": "Cherry is a little upset.\t",
-                    "Emotion": 0,
+                    "Emotion": 3,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": ". . .",
                             "IndexToConnectTo": 1325400064,
                             "OptionKarma": 0,
-                            "Guid": -199622656,
+                            "Guid": -1464696640,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -262,7 +262,7 @@
                             "Text": "What do you mean?\t\t\t\t\t\t\t",
                             "IndexToConnectTo": -1823342592,
                             "OptionKarma": 0,
-                            "Guid": -1055916032,
+                            "Guid": 662700032,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -275,7 +275,7 @@
                             "Text": "Who is Pie?\t\t\t\t\t\t\t",
                             "IndexToConnectTo": -872415232,
                             "OptionKarma": 0,
-                            "Guid": 60817408,
+                            "Guid": -964820992,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -288,14 +288,14 @@
                 {
                     "Guid": -1823342592,
                     "Text": "Oh! Pie is Cherry's doll.\t\t\t\t\t\t\t",
-                    "Emotion": 0,
+                    "Emotion": 5,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": ". . .",
                             "IndexToConnectTo": 1836408832,
                             "OptionKarma": 0,
-                            "Guid": -244056064,
+                            "Guid": 31703040,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -315,7 +315,7 @@
                             "Text": ". . .",
                             "IndexToConnectTo": 1836408832,
                             "OptionKarma": 0,
-                            "Guid": 982384640,
+                            "Guid": 594542592,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -328,14 +328,14 @@
                 {
                     "Guid": 1836408832,
                     "Text": "It was really windy yesterday, like WHOOSH and WHOOOOSH!!",
-                    "Emotion": 0,
+                    "Emotion": 5,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": ". . .",
                             "IndexToConnectTo": 511965400,
                             "OptionKarma": 0,
-                            "Guid": 191250432,
+                            "Guid": -2117185536,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -355,7 +355,7 @@
                             "Text": ". . .",
                             "IndexToConnectTo": -970719232,
                             "OptionKarma": 0,
-                            "Guid": -1995620480,
+                            "Guid": 233308160,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -368,14 +368,14 @@
                 {
                     "Guid": -970719232,
                     "Text": "So when the wind came, Pie went flying all over the playground! WHOOSH!!! ",
-                    "Emotion": 0,
+                    "Emotion": 5,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": "What can I do?",
                             "IndexToConnectTo": 2013265920,
                             "OptionKarma": 0,
-                            "Guid": 1152647168,
+                            "Guid": -1588615168,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -388,7 +388,7 @@
                             "Text": "WHOOSH!",
                             "IndexToConnectTo": 1367343104,
                             "OptionKarma": 0,
-                            "Guid": 1624244224,
+                            "Guid": 1084137472,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -408,7 +408,7 @@
                             "Text": ". . .",
                             "IndexToConnectTo": 1294893056,
                             "OptionKarma": 0,
-                            "Guid": 1606052864,
+                            "Guid": 499023872,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -421,14 +421,14 @@
                 {
                     "Guid": 1367343104,
                     "Text": "Yeah, just like that!",
-                    "Emotion": 0,
+                    "Emotion": 1,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": ". . .",
                             "IndexToConnectTo": 2013265920,
                             "OptionKarma": 0,
-                            "Guid": 5425152,
+                            "Guid": 0,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -441,14 +441,14 @@
                 {
                     "Guid": 1294893056,
                     "Text": "Come find me if you do, we can suprise her together!",
-                    "Emotion": 0,
+                    "Emotion": 1,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": ". . .",
                             "IndexToConnectTo": -1,
                             "OptionKarma": 0,
-                            "Guid": 640057344,
+                            "Guid": 52428800,
                             "OnChosenTriggers": [
                                 13,
                                 25,
@@ -503,7 +503,7 @@
                             "Text": "Not yet",
                             "IndexToConnectTo": 1420460032,
                             "OptionKarma": 0,
-                            "Guid": -242221056,
+                            "Guid": -951844864,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -516,7 +516,7 @@
                 {
                     "Guid": 1420460032,
                     "Text": "Okay. Good luck!",
-                    "Emotion": 0,
+                    "Emotion": 1,
                     "Options": []
                 }
             ],
@@ -562,7 +562,7 @@
                             "Text": "Not yet",
                             "IndexToConnectTo": 504962048,
                             "OptionKarma": 0,
-                            "Guid": 276824064,
+                            "Guid": -684305920,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -582,7 +582,7 @@
                             "Text": ". . .",
                             "IndexToConnectTo": -1,
                             "OptionKarma": 0,
-                            "Guid": -1995833344,
+                            "Guid": 932007936,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -635,7 +635,7 @@
                             "Text": ". . .",
                             "IndexToConnectTo": 1375924736,
                             "OptionKarma": 0,
-                            "Guid": 1719664640,
+                            "Guid": -499122176,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -648,14 +648,14 @@
                 {
                     "Guid": 1375924736,
                     "Text": "I am sure you can find Pie! Once it's fixed, we can surprise Cherry together!",
-                    "Emotion": 0,
+                    "Emotion": 1,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": ". . .",
                             "IndexToConnectTo": -1,
                             "OptionKarma": 0,
-                            "Guid": 1627586560,
+                            "Guid": -22763008,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -701,14 +701,14 @@
                 {
                     "Guid": 1245691904,
                     "Text": "WOAH! You found the pieces! Pie looks better than new!",
-                    "Emotion": 0,
+                    "Emotion": 5,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": ". . .",
                             "IndexToConnectTo": 2140895232,
                             "OptionKarma": 0,
-                            "Guid": -1655799808,
+                            "Guid": 330018816,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -721,14 +721,14 @@
                 {
                     "Guid": 2140895232,
                     "Text": "Let's go talk to Cherry.",
-                    "Emotion": 0,
+                    "Emotion": 1,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": ". . .",
                             "IndexToConnectTo": -7340032,
                             "OptionKarma": 0,
-                            "Guid": -798252416,
+                            "Guid": 1530515456,
                             "OnChosenTriggers": [
                                 9,
                                 0
@@ -742,14 +742,14 @@
                 {
                     "Guid": -7340032,
                     "Text": "Cherry, look who is here to say hi!",
-                    "Emotion": 0,
+                    "Emotion": 1,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": ". . .",
                             "IndexToConnectTo": -335544320,
                             "OptionKarma": 0,
-                            "Guid": -512884736,
+                            "Guid": -453509120,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -762,14 +762,14 @@
                 {
                     "Guid": -335544320,
                     "Text": "PIE?!?\t",
-                    "Emotion": 3,
+                    "Emotion": 6,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": ". . .",
                             "IndexToConnectTo": -1839251456,
                             "OptionKarma": 0,
-                            "Guid": -892276736,
+                            "Guid": 1712567552,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -782,14 +782,14 @@
                 {
                     "Guid": -1839251456,
                     "Text": "Yeah! We thought Pie would make you happy.",
-                    "Emotion": 0,
+                    "Emotion": 1,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": ". . .",
                             "IndexToConnectTo": 773206016,
                             "OptionKarma": 0,
-                            "Guid": -782598144,
+                            "Guid": -565411840,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -802,14 +802,14 @@
                 {
                     "Guid": 773206016,
                     "Text": "Thank you THANK YOU THANK YOU!",
-                    "Emotion": 3,
+                    "Emotion": 7,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": ". . .",
                             "IndexToConnectTo": 1400550400,
                             "OptionKarma": 0,
-                            "Guid": 1190987776,
+                            "Guid": -685277184,
                             "OnChosenTriggers": [
                                 1,
                                 3,
@@ -824,14 +824,14 @@
                 {
                     "Guid": 1400550400,
                     "Text": "I've been a little down since Pie fell apart. With Pie back together, we're whole!",
-                    "Emotion": 3,
+                    "Emotion": 7,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": ". . .",
                             "IndexToConnectTo": 642072576,
                             "OptionKarma": 0,
-                            "Guid": -409063424,
+                            "Guid": -722599936,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -844,14 +844,14 @@
                 {
                     "Guid": 642072576,
                     "Text": "Cherry, aren't you forgetting something",
-                    "Emotion": 0,
+                    "Emotion": 1,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": ". . .",
                             "IndexToConnectTo": 956909056,
                             "OptionKarma": 0,
-                            "Guid": -2115895296,
+                            "Guid": -39288832,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -864,14 +864,14 @@
                 {
                     "Guid": 956909056,
                     "Text": "What?",
-                    "Emotion": 3,
+                    "Emotion": 8,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": ". . .",
                             "IndexToConnectTo": -872415232,
                             "OptionKarma": 0,
-                            "Guid": -872808448,
+                            "Guid": 536870912,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -891,7 +891,7 @@
                             "Text": ". . .",
                             "IndexToConnectTo": -1086349312,
                             "OptionKarma": 0,
-                            "Guid": -848371712,
+                            "Guid": 1178599424,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -904,14 +904,14 @@
                 {
                     "Guid": -1086349312,
                     "Text": "OH! Right.",
-                    "Emotion": 3,
+                    "Emotion": 6,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": ". . .",
                             "IndexToConnectTo": -1254096896,
                             "OptionKarma": 0,
-                            "Guid": 1480589312,
+                            "Guid": -415408128,
                             "OnChosenTriggers": [
                                 0
                             ],
@@ -924,14 +924,14 @@
                 {
                     "Guid": -1254096896,
                     "Text": "As long as you're okay with it, Dannie. I'll give them Rocky.",
-                    "Emotion": 3,
+                    "Emotion": 7,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": ". . .",
                             "IndexToConnectTo": -1,
                             "OptionKarma": 0,
-                            "Guid": -1195900928,
+                            "Guid": -1061241344,
                             "OnChosenTriggers": [
                                 13,
                                 25,
@@ -963,14 +963,14 @@
                 {
                     "Guid": 13369344,
                     "Text": "Take good care of Rocky! Make sure he gets lots of sun, he's working on a tan",
-                    "Emotion": 0,
+                    "Emotion": 1,
                     "Options": [
                         {
                             "PreRequsites": [],
                             "Text": ". . .",
                             "IndexToConnectTo": -1,
                             "OptionKarma": 0,
-                            "Guid": -103809024,
+                            "Guid": 1823192064,
                             "OnChosenTriggers": [
                                 0
                             ],
